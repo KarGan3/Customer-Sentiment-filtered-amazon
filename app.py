@@ -38,24 +38,32 @@ if 'aspect_analyzer' not in st.session_state:
 if 'review_history' not in st.session_state:
     st.session_state.review_history = []
 
-# Load Model
-@st.cache_resource
+# Load Model - Ensure it's trained every time to avoid cache issues
+@st.cache_resource(show_spinner="Training sentiment analysis model...")
 def load_and_train_model():
     """Loads data and trains/loads the model. Cached for performance."""
     try:
         df = sentiment.load_data()
         # Train the model - this sets the global variables in sentiment.py
         model, vectorizer, scaler, label_encoder, accuracy = sentiment.train_model(df)
-        return df, True
+        # Return the artifacts so they're cached
+        return df, model, vectorizer, scaler, label_encoder, accuracy, True
     except FileNotFoundError:
         st.error("Error: 'Customer_Sentiment_filtered_amazon.csv' not found. Please ensure the file is in the directory.")
-        return None, False
+        return None, None, None, None, None, None, False
 
-df, model_loaded = load_and_train_model()
+# Load the model and artifacts
+df, model, vectorizer, scaler, label_encoder, accuracy, model_loaded = load_and_train_model()
 
 # Ensure model is loaded before proceeding
 if not model_loaded or df is None:
     st.stop()
+
+# Set the global variables in sentiment module (in case cache cleared them)
+sentiment._model = model
+sentiment._vectorizer = vectorizer
+sentiment._scaler = scaler
+sentiment._label_encoder = label_encoder
 
 # ============================================
 # LANDING PAGE - GENDER SELECTION
@@ -82,20 +90,16 @@ if st.session_state.gender is None:
         gender_col1, gender_col2 = st.columns(2)
         
         with gender_col1:
-            st.markdown('<div class="gender-card">', unsafe_allow_html=True)
             st.markdown('<h2 style="font-size: 80px;">👨</h2>', unsafe_allow_html=True)
             if st.button("Male Avatar", key="male_btn", use_container_width=True):
                 st.session_state.gender = "male"
                 st.rerun()
-            st.markdown('</div>', unsafe_allow_html=True)
         
         with gender_col2:
-            st.markdown('<div class="gender-card">', unsafe_allow_html=True)
             st.markdown('<h2 style="font-size: 80px;">👩</h2>', unsafe_allow_html=True)
             if st.button("Female Avatar", key="female_btn", use_container_width=True):
                 st.session_state.gender = "female"
                 st.rerun()
-            st.markdown('</div>', unsafe_allow_html=True)
 
 # ============================================
 # MAIN DASHBOARD - REVIEW INPUT & ANALYSIS
@@ -307,21 +311,7 @@ with st.sidebar:
         if st.button("🗑️ Clear History"):
             st.session_state.review_history = []
             st.rerun()
-            
-        # Export all history
-        st.markdown("<hr>", unsafe_allow_html=True)
-        st.markdown(f'<h3 style="color: {COLORS["text"]};">Export History</h3>', unsafe_allow_html=True)
-        
-        history_df = pd.DataFrame(st.session_state.review_history)
-        csv_history = history_df.to_csv(index=False).encode('utf-8')
-        
-        st.download_button(
-            label="📥 Download All Reviews",
-            data=csv_history,
-            file_name=f"review_history_{pd.Timestamp.now().strftime('%Y%m%d')}.csv",
-            mime="text/csv",
-            use_container_width=True
-        )
+
     else:
         st.info("No analysis history yet. Start analyzing reviews!")
 

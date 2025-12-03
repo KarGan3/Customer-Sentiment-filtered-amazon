@@ -122,22 +122,6 @@ def apply_custom_css():
             margin-bottom: 40px;
         }}
         
-        /* Gender Selection Cards */
-        .gender-card {{
-            background-color: {COLORS['secondary_bg']};
-            border-radius: 20px;
-            padding: 40px;
-            text-align: center;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            border: 3px solid transparent;
-        }}
-        
-        .gender-card:hover {{
-            border-color: {COLORS['accent']};
-            transform: scale(1.05);
-            box-shadow: 0 10px 30px rgba(148, 137, 121, 0.4);
-        }}
         
         /* Analysis Results */
         .result-header {{
@@ -151,6 +135,19 @@ def apply_custom_css():
         /* Sidebar */
         [data-testid="stSidebar"] {{
             background-color: {COLORS['secondary_bg']};
+        }}
+        
+        /* Hide Streamlit Deploy Button and Menu */
+        [data-testid="stToolbar"] {{
+            display: none;
+        }}
+        
+        #MainMenu {{
+            visibility: hidden;
+        }}
+        
+        header {{
+            visibility: hidden;
         }}
         
     </style>
