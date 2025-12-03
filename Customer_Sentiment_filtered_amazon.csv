@@ -1,0 +1,1472 @@
+customer_id,gender,age_group,region,product_category,purchase_channel,platform,customer_rating,review_text,sentiment,response_time_hours,issue_resolved,complaint_registered
+7,male,36-45,south,travel,online,amazon,4,great value for money.,positive,38,yes,no
+28,other,46-60,north,groceries,online,amazon,1,product stopped working after few days.,negative,32,yes,yes
+97,male,36-45,north,books,online,amazon,5,fast delivery and great packaging.,positive,43,yes,no
+116,female,26-35,central,groceries,online,amazon,2,not worth the price.,negative,43,yes,yes
+120,male,26-35,north,automobile,online,amazon,2,late delivery and poor packaging.,negative,24,yes,yes
+146,other,46-60,north,sports,online,amazon,2,late delivery and poor packaging.,negative,71,no,yes
+153,other,46-60,north,fashion,online,amazon,5,fast delivery and great packaging.,positive,52,no,no
+168,male,46-60,west,home & kitchen,online,amazon,2,very disappointed with the quality.,negative,60,no,yes
+210,other,26-35,south,electronics,online,amazon,4,"amazing experience, highly recommend!",positive,44,yes,no
+222,female,46-60,west,home & kitchen,online,amazon,2,not worth the price.,negative,34,yes,yes
+232,other,46-60,south,travel,online,amazon,2,late delivery and poor packaging.,negative,52,no,yes
+245,female,36-45,central,home & kitchen,online,amazon,1,not worth the price.,negative,34,yes,yes
+253,male,36-45,north,electronics,online,amazon,1,not worth the price.,negative,38,yes,yes
+262,male,26-35,south,fashion,online,amazon,5,very satisfied with the quality.,positive,10,yes,no
+287,male,46-60,south,travel,online,amazon,3,works fine but could be better.,neutral,57,no,no
+312,other,36-45,north,automobile,online,amazon,3,works fine but could be better.,neutral,44,yes,no
+325,other,46-60,south,home & kitchen,online,amazon,1,product stopped working after few days.,negative,14,yes,yes
+328,male,46-60,north,beauty,online,amazon,2,product stopped working after few days.,negative,9,yes,yes
+373,female,46-60,south,electronics,online,amazon,2,very disappointed with the quality.,negative,34,yes,yes
+380,male,46-60,north,groceries,online,amazon,2,not worth the price.,negative,20,yes,yes
+404,other,46-60,central,books,online,amazon,4,great value for money.,positive,37,yes,no
+413,male,18-25,west,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,33,yes,no
+434,male,36-45,west,books,online,amazon,1,not worth the price.,negative,34,yes,yes
+493,other,46-60,west,automobile,online,amazon,5,very satisfied with the quality.,positive,38,yes,no
+498,female,36-45,north,groceries,online,amazon,3,neutral about the quality.,neutral,12,yes,no
+510,male,60+,south,sports,online,amazon,4,very satisfied with the quality.,positive,7,yes,no
+575,male,60+,north,beauty,online,amazon,1,late delivery and poor packaging.,negative,47,yes,yes
+590,other,18-25,west,fashion,online,amazon,4,very satisfied with the quality.,positive,36,yes,no
+708,female,26-35,south,electronics,online,amazon,5,"amazing experience, highly recommend!",positive,68,no,no
+724,male,60+,east,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,20,yes,no
+729,female,18-25,west,groceries,online,amazon,1,late delivery and poor packaging.,negative,38,yes,yes
+771,female,18-25,east,automobile,online,amazon,2,customer service was unhelpful.,negative,6,yes,yes
+795,female,18-25,east,electronics,online,amazon,4,fast delivery and great packaging.,positive,29,yes,no
+797,other,18-25,central,beauty,online,amazon,2,very disappointed with the quality.,negative,31,yes,yes
+829,other,46-60,south,travel,online,amazon,5,"amazing experience, highly recommend!",positive,5,yes,no
+852,other,18-25,south,beauty,online,amazon,2,not worth the price.,negative,56,no,yes
+856,other,18-25,south,beauty,online,amazon,2,not worth the price.,negative,23,yes,yes
+859,other,46-60,central,home & kitchen,online,amazon,1,very disappointed with the quality.,negative,5,yes,yes
+897,female,26-35,south,fashion,online,amazon,3,neutral about the quality.,neutral,58,no,no
+915,female,26-35,central,books,online,amazon,2,not worth the price.,negative,39,yes,yes
+924,male,46-60,west,home & kitchen,online,amazon,4,"amazing experience, highly recommend!",positive,63,no,no
+940,female,26-35,west,electronics,online,amazon,5,excellent product! exceeded expectations.,positive,56,no,no
+949,other,60+,north,home & kitchen,online,amazon,5,"amazing experience, highly recommend!",positive,6,yes,no
+986,female,26-35,central,automobile,online,amazon,2,customer service was unhelpful.,negative,63,no,yes
+988,male,18-25,south,fashion,online,amazon,4,"amazing experience, highly recommend!",positive,19,yes,no
+1042,other,60+,north,books,online,amazon,5,excellent product! exceeded expectations.,positive,32,yes,no
+1046,male,46-60,east,home & kitchen,online,amazon,4,"amazing experience, highly recommend!",positive,30,yes,no
+1098,other,60+,north,beauty,online,amazon,3,works fine but could be better.,neutral,66,no,no
+1204,other,18-25,north,electronics,online,amazon,3,average experience overall.,neutral,65,no,no
+1239,male,60+,west,electronics,online,amazon,4,fast delivery and great packaging.,positive,71,no,no
+1260,other,18-25,west,fashion,online,amazon,4,great value for money.,positive,71,no,no
+1288,male,46-60,east,travel,online,amazon,5,"amazing experience, highly recommend!",positive,14,yes,no
+1305,female,36-45,north,automobile,online,amazon,4,"amazing experience, highly recommend!",positive,50,no,no
+1334,other,18-25,west,travel,online,amazon,2,product stopped working after few days.,negative,4,yes,yes
+1348,other,36-45,central,groceries,online,amazon,2,product stopped working after few days.,negative,16,yes,yes
+1352,female,18-25,east,beauty,online,amazon,1,very disappointed with the quality.,negative,52,no,yes
+1359,male,60+,central,home & kitchen,online,amazon,3,works fine but could be better.,neutral,23,yes,no
+1368,female,18-25,east,beauty,online,amazon,1,late delivery and poor packaging.,negative,34,yes,yes
+1373,female,46-60,south,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,14,yes,no
+1427,other,46-60,central,electronics,online,amazon,1,customer service was unhelpful.,negative,29,yes,yes
+1432,male,18-25,south,sports,online,amazon,3,average experience overall.,neutral,69,no,no
+1452,male,26-35,north,fashion,online,amazon,2,late delivery and poor packaging.,negative,9,yes,yes
+1501,female,26-35,west,home & kitchen,online,amazon,2,not worth the price.,negative,62,no,yes
+1507,other,18-25,south,groceries,online,amazon,1,not worth the price.,negative,21,yes,yes
+1515,male,36-45,west,home & kitchen,online,amazon,2,not worth the price.,negative,47,yes,yes
+1533,other,60+,central,books,online,amazon,3,works fine but could be better.,neutral,24,yes,no
+1543,male,36-45,central,fashion,online,amazon,2,not worth the price.,negative,71,no,yes
+1570,other,60+,west,sports,online,amazon,4,very satisfied with the quality.,positive,1,yes,no
+1600,other,46-60,south,beauty,online,amazon,3,works fine but could be better.,neutral,24,yes,no
+1603,other,36-45,north,travel,online,amazon,2,not worth the price.,negative,9,yes,yes
+1606,other,60+,central,sports,online,amazon,5,very satisfied with the quality.,positive,50,no,no
+1615,male,60+,central,automobile,online,amazon,3,works fine but could be better.,neutral,58,no,no
+1636,female,26-35,west,beauty,online,amazon,1,very disappointed with the quality.,negative,60,no,yes
+1666,female,36-45,south,beauty,online,amazon,5,great value for money.,positive,63,no,no
+1688,female,18-25,south,beauty,online,amazon,2,not worth the price.,negative,22,yes,yes
+1706,other,46-60,west,electronics,online,amazon,1,customer service was unhelpful.,negative,33,yes,yes
+1732,other,26-35,central,beauty,online,amazon,1,late delivery and poor packaging.,negative,20,yes,yes
+1783,male,18-25,north,travel,online,amazon,5,fast delivery and great packaging.,positive,10,yes,no
+1786,male,46-60,central,groceries,online,amazon,1,late delivery and poor packaging.,negative,27,yes,yes
+1789,female,18-25,north,home & kitchen,online,amazon,3,neutral about the quality.,neutral,34,yes,no
+1822,other,60+,west,groceries,online,amazon,2,not worth the price.,negative,7,yes,yes
+1845,other,18-25,central,travel,online,amazon,2,not worth the price.,negative,34,yes,yes
+1855,male,18-25,central,automobile,online,amazon,1,customer service was unhelpful.,negative,35,yes,yes
+1864,female,36-45,north,home & kitchen,online,amazon,5,fast delivery and great packaging.,positive,11,yes,no
+1909,male,26-35,west,sports,online,amazon,3,"product is okay, nothing special.",neutral,53,no,no
+1975,female,60+,west,sports,online,amazon,4,"amazing experience, highly recommend!",positive,4,yes,no
+1996,male,36-45,north,groceries,online,amazon,3,works fine but could be better.,neutral,68,no,no
+2013,male,18-25,west,automobile,online,amazon,1,customer service was unhelpful.,negative,30,yes,yes
+2025,male,26-35,north,automobile,online,amazon,4,fast delivery and great packaging.,positive,14,yes,no
+2031,female,18-25,west,electronics,online,amazon,5,excellent product! exceeded expectations.,positive,47,yes,no
+2040,female,36-45,north,electronics,online,amazon,1,very disappointed with the quality.,negative,1,yes,yes
+2139,female,60+,south,beauty,online,amazon,1,late delivery and poor packaging.,negative,16,yes,yes
+2151,male,60+,south,books,online,amazon,3,"delivery was fine, product is decent.",neutral,48,no,no
+2156,female,60+,south,books,online,amazon,4,great value for money.,positive,56,no,no
+2158,female,60+,east,sports,online,amazon,1,very disappointed with the quality.,negative,38,yes,yes
+2162,male,26-35,south,groceries,online,amazon,5,great value for money.,positive,5,yes,no
+2169,other,46-60,north,fashion,online,amazon,3,neutral about the quality.,neutral,61,no,no
+2170,other,36-45,central,books,online,amazon,4,very satisfied with the quality.,positive,36,yes,no
+2189,female,36-45,south,beauty,online,amazon,2,not worth the price.,negative,65,no,yes
+2212,other,46-60,central,groceries,online,amazon,5,"amazing experience, highly recommend!",positive,34,yes,no
+2221,other,60+,central,home & kitchen,online,amazon,4,very satisfied with the quality.,positive,11,yes,no
+2245,other,60+,north,groceries,online,amazon,1,customer service was unhelpful.,negative,2,yes,yes
+2248,male,60+,east,travel,online,amazon,1,product stopped working after few days.,negative,34,yes,yes
+2259,male,36-45,central,sports,online,amazon,1,customer service was unhelpful.,negative,38,yes,yes
+2271,male,36-45,north,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,10,yes,no
+2297,male,60+,south,books,online,amazon,2,product stopped working after few days.,negative,11,yes,yes
+2344,other,60+,west,automobile,online,amazon,5,excellent product! exceeded expectations.,positive,50,no,no
+2353,other,46-60,north,electronics,online,amazon,2,customer service was unhelpful.,negative,5,yes,yes
+2377,other,26-35,east,beauty,online,amazon,4,great value for money.,positive,68,no,no
+2402,female,60+,central,sports,online,amazon,1,customer service was unhelpful.,negative,53,no,yes
+2412,male,46-60,south,electronics,online,amazon,3,"product is okay, nothing special.",neutral,55,no,no
+2420,female,18-25,west,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,60,no,no
+2467,male,46-60,south,sports,online,amazon,3,works fine but could be better.,neutral,52,no,no
+2482,other,36-45,east,sports,online,amazon,2,late delivery and poor packaging.,negative,59,no,yes
+2494,female,60+,south,travel,online,amazon,1,customer service was unhelpful.,negative,16,yes,yes
+2519,male,18-25,south,automobile,online,amazon,2,very disappointed with the quality.,negative,31,yes,yes
+2571,other,36-45,east,groceries,online,amazon,1,very disappointed with the quality.,negative,26,yes,yes
+2574,female,36-45,east,electronics,online,amazon,5,"amazing experience, highly recommend!",positive,59,no,no
+2597,female,46-60,central,travel,online,amazon,3,works fine but could be better.,neutral,15,yes,no
+2642,female,60+,central,automobile,online,amazon,2,not worth the price.,negative,18,yes,yes
+2663,male,60+,north,automobile,online,amazon,4,"amazing experience, highly recommend!",positive,2,yes,no
+2666,female,36-45,east,books,online,amazon,5,fast delivery and great packaging.,positive,7,yes,no
+2668,other,60+,central,sports,online,amazon,3,works fine but could be better.,neutral,41,yes,no
+2685,female,18-25,north,fashion,online,amazon,3,average experience overall.,neutral,15,yes,no
+2691,other,26-35,east,travel,online,amazon,2,customer service was unhelpful.,negative,15,yes,yes
+2719,female,26-35,south,fashion,online,amazon,2,very disappointed with the quality.,negative,53,no,yes
+2729,female,18-25,south,fashion,online,amazon,2,very disappointed with the quality.,negative,25,yes,yes
+2743,female,26-35,south,sports,online,amazon,3,"product is okay, nothing special.",neutral,58,no,no
+2748,other,60+,central,electronics,online,amazon,3,neutral about the quality.,neutral,66,no,no
+2756,other,26-35,west,books,online,amazon,4,fast delivery and great packaging.,positive,50,no,no
+2779,female,60+,south,sports,online,amazon,3,"product is okay, nothing special.",neutral,26,yes,no
+2787,male,46-60,south,home & kitchen,online,amazon,3,neutral about the quality.,neutral,64,no,no
+2792,male,46-60,east,home & kitchen,online,amazon,2,product stopped working after few days.,negative,3,yes,yes
+2833,male,46-60,central,groceries,online,amazon,3,works fine but could be better.,neutral,19,yes,no
+2866,male,36-45,south,electronics,online,amazon,1,product stopped working after few days.,negative,20,yes,yes
+2931,male,36-45,east,books,online,amazon,4,fast delivery and great packaging.,positive,9,yes,no
+2943,other,18-25,west,groceries,online,amazon,1,product stopped working after few days.,negative,69,no,yes
+2955,male,36-45,east,sports,online,amazon,5,excellent product! exceeded expectations.,positive,7,yes,no
+2957,male,46-60,south,fashion,online,amazon,4,very satisfied with the quality.,positive,71,no,no
+2991,female,46-60,east,fashion,online,amazon,4,great value for money.,positive,68,no,no
+2994,other,26-35,central,automobile,online,amazon,5,fast delivery and great packaging.,positive,41,yes,no
+3000,female,36-45,east,beauty,online,amazon,4,very satisfied with the quality.,positive,9,yes,no
+3008,female,26-35,north,travel,online,amazon,5,excellent product! exceeded expectations.,positive,45,yes,no
+3009,female,26-35,central,electronics,online,amazon,1,very disappointed with the quality.,negative,52,no,yes
+3015,female,46-60,central,travel,online,amazon,5,fast delivery and great packaging.,positive,36,yes,no
+3042,male,46-60,west,automobile,online,amazon,4,great value for money.,positive,43,yes,no
+3060,male,46-60,south,travel,online,amazon,5,"amazing experience, highly recommend!",positive,50,no,no
+3068,other,36-45,south,groceries,online,amazon,3,"product is okay, nothing special.",neutral,27,yes,no
+3071,female,46-60,south,sports,online,amazon,1,not worth the price.,negative,19,yes,yes
+3078,other,60+,east,electronics,online,amazon,2,late delivery and poor packaging.,negative,9,yes,yes
+3121,female,26-35,south,sports,online,amazon,3,works fine but could be better.,neutral,6,yes,no
+3180,male,18-25,central,fashion,online,amazon,2,late delivery and poor packaging.,negative,1,yes,yes
+3207,other,36-45,east,books,online,amazon,1,very disappointed with the quality.,negative,4,yes,yes
+3261,female,26-35,west,sports,online,amazon,4,very satisfied with the quality.,positive,65,no,no
+3323,other,36-45,central,sports,online,amazon,2,not worth the price.,negative,22,yes,yes
+3344,female,26-35,east,home & kitchen,online,amazon,2,customer service was unhelpful.,negative,21,yes,yes
+3367,female,60+,east,fashion,online,amazon,4,fast delivery and great packaging.,positive,67,no,no
+3414,male,46-60,east,electronics,online,amazon,2,customer service was unhelpful.,negative,15,yes,yes
+3440,other,18-25,central,home & kitchen,online,amazon,4,fast delivery and great packaging.,positive,25,yes,no
+3450,female,36-45,south,travel,online,amazon,5,very satisfied with the quality.,positive,18,yes,no
+3512,female,60+,central,books,online,amazon,5,"amazing experience, highly recommend!",positive,34,yes,no
+3536,male,60+,east,travel,online,amazon,1,customer service was unhelpful.,negative,44,yes,yes
+3553,other,60+,west,home & kitchen,online,amazon,1,not worth the price.,negative,33,yes,yes
+3575,other,26-35,south,travel,online,amazon,1,customer service was unhelpful.,negative,41,yes,yes
+3590,other,36-45,south,books,online,amazon,3,"product is okay, nothing special.",neutral,38,yes,no
+3629,other,60+,north,sports,online,amazon,2,very disappointed with the quality.,negative,55,no,yes
+3650,other,36-45,west,books,online,amazon,5,fast delivery and great packaging.,positive,63,no,no
+3665,female,60+,east,home & kitchen,online,amazon,3,"product is okay, nothing special.",neutral,30,yes,no
+3669,female,60+,south,travel,online,amazon,3,neutral about the quality.,neutral,52,no,no
+3710,other,60+,north,fashion,online,amazon,5,"amazing experience, highly recommend!",positive,25,yes,no
+3717,female,18-25,east,electronics,online,amazon,1,product stopped working after few days.,negative,60,no,yes
+3786,female,36-45,south,fashion,online,amazon,2,late delivery and poor packaging.,negative,3,yes,yes
+3869,male,36-45,east,sports,online,amazon,3,average experience overall.,neutral,70,no,no
+3885,male,18-25,east,travel,online,amazon,2,late delivery and poor packaging.,negative,57,no,yes
+3893,female,46-60,central,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,4,yes,no
+3903,female,18-25,central,sports,online,amazon,1,very disappointed with the quality.,negative,5,yes,yes
+3919,male,26-35,north,fashion,online,amazon,1,not worth the price.,negative,63,no,yes
+3920,female,26-35,central,beauty,online,amazon,4,great value for money.,positive,52,no,no
+3923,female,46-60,east,automobile,online,amazon,5,fast delivery and great packaging.,positive,52,no,no
+3932,male,46-60,south,sports,online,amazon,3,average experience overall.,neutral,38,yes,no
+3941,female,26-35,west,automobile,online,amazon,3,"delivery was fine, product is decent.",neutral,43,yes,no
+3943,other,60+,west,sports,online,amazon,5,"amazing experience, highly recommend!",positive,61,no,no
+3964,female,46-60,south,travel,online,amazon,5,great value for money.,positive,68,no,no
+3970,female,36-45,central,groceries,online,amazon,4,very satisfied with the quality.,positive,8,yes,no
+3994,male,60+,west,beauty,online,amazon,1,not worth the price.,negative,8,yes,yes
+4006,other,36-45,south,home & kitchen,online,amazon,2,not worth the price.,negative,62,no,yes
+4009,male,18-25,central,fashion,online,amazon,5,"amazing experience, highly recommend!",positive,9,yes,no
+4054,other,60+,west,travel,online,amazon,2,not worth the price.,negative,36,yes,yes
+4061,male,18-25,central,books,online,amazon,5,great value for money.,positive,27,yes,no
+4071,male,18-25,east,groceries,online,amazon,2,product stopped working after few days.,negative,8,yes,yes
+4082,male,46-60,central,books,online,amazon,2,customer service was unhelpful.,negative,63,no,yes
+4097,female,26-35,north,travel,online,amazon,3,works fine but could be better.,neutral,36,yes,no
+4099,other,36-45,west,books,online,amazon,2,not worth the price.,negative,18,yes,yes
+4103,male,46-60,east,beauty,online,amazon,1,product stopped working after few days.,negative,33,yes,yes
+4125,other,46-60,central,home & kitchen,online,amazon,3,"delivery was fine, product is decent.",neutral,27,yes,no
+4127,male,18-25,south,books,online,amazon,5,"amazing experience, highly recommend!",positive,35,yes,no
+4242,male,46-60,south,electronics,online,amazon,2,product stopped working after few days.,negative,29,yes,yes
+4243,other,60+,north,groceries,online,amazon,5,"amazing experience, highly recommend!",positive,31,yes,no
+4258,male,46-60,central,electronics,online,amazon,2,not worth the price.,negative,16,yes,yes
+4263,male,60+,east,electronics,online,amazon,1,not worth the price.,negative,4,yes,yes
+4278,other,26-35,north,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,32,yes,no
+4284,female,46-60,north,automobile,online,amazon,3,average experience overall.,neutral,30,yes,no
+4303,male,46-60,west,automobile,online,amazon,4,fast delivery and great packaging.,positive,43,yes,no
+4331,male,46-60,west,travel,online,amazon,1,not worth the price.,negative,42,yes,yes
+4369,other,36-45,north,travel,online,amazon,2,customer service was unhelpful.,negative,2,yes,yes
+4385,female,46-60,west,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,48,no,no
+4422,other,18-25,south,travel,online,amazon,1,not worth the price.,negative,34,yes,yes
+4480,female,46-60,south,travel,online,amazon,3,"product is okay, nothing special.",neutral,50,no,no
+4482,male,46-60,east,beauty,online,amazon,1,not worth the price.,negative,32,yes,yes
+4490,female,60+,south,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,44,yes,no
+4580,male,36-45,north,beauty,online,amazon,2,customer service was unhelpful.,negative,20,yes,yes
+4591,other,46-60,south,fashion,online,amazon,2,late delivery and poor packaging.,negative,59,no,yes
+4604,other,46-60,west,electronics,online,amazon,1,not worth the price.,negative,28,yes,yes
+4652,other,46-60,east,sports,online,amazon,3,neutral about the quality.,neutral,48,no,no
+4655,male,18-25,west,fashion,online,amazon,1,not worth the price.,negative,9,yes,yes
+4661,other,60+,south,electronics,online,amazon,3,neutral about the quality.,neutral,19,yes,no
+4669,other,36-45,east,electronics,online,amazon,2,customer service was unhelpful.,negative,61,no,yes
+4681,male,26-35,south,books,online,amazon,3,works fine but could be better.,neutral,51,no,no
+4728,other,18-25,central,sports,online,amazon,5,"amazing experience, highly recommend!",positive,5,yes,no
+4739,female,26-35,west,sports,online,amazon,2,product stopped working after few days.,negative,24,yes,yes
+4779,male,36-45,south,sports,online,amazon,2,late delivery and poor packaging.,negative,23,yes,yes
+4780,male,36-45,north,fashion,online,amazon,2,product stopped working after few days.,negative,3,yes,yes
+4787,female,26-35,north,electronics,online,amazon,2,late delivery and poor packaging.,negative,3,yes,yes
+4788,male,60+,central,automobile,online,amazon,4,very satisfied with the quality.,positive,12,yes,no
+4789,male,60+,east,automobile,online,amazon,1,very disappointed with the quality.,negative,6,yes,yes
+4793,other,26-35,south,beauty,online,amazon,4,"amazing experience, highly recommend!",positive,47,yes,no
+4809,female,60+,east,automobile,online,amazon,1,very disappointed with the quality.,negative,28,yes,yes
+4813,female,46-60,north,books,online,amazon,2,product stopped working after few days.,negative,69,no,yes
+4814,female,46-60,south,fashion,online,amazon,2,very disappointed with the quality.,negative,69,no,yes
+4823,other,36-45,central,home & kitchen,online,amazon,2,late delivery and poor packaging.,negative,54,no,yes
+4840,other,36-45,north,automobile,online,amazon,5,fast delivery and great packaging.,positive,64,no,no
+4850,other,18-25,south,books,online,amazon,1,very disappointed with the quality.,negative,63,no,yes
+4866,female,60+,east,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,45,yes,no
+4867,female,36-45,east,fashion,online,amazon,2,customer service was unhelpful.,negative,1,yes,yes
+4869,other,46-60,south,home & kitchen,online,amazon,3,neutral about the quality.,neutral,51,no,no
+4924,other,18-25,north,beauty,online,amazon,4,fast delivery and great packaging.,positive,9,yes,no
+4927,female,36-45,south,sports,online,amazon,4,excellent product! exceeded expectations.,positive,67,no,no
+4961,female,26-35,west,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,20,yes,no
+4984,female,18-25,south,travel,online,amazon,2,product stopped working after few days.,negative,14,yes,yes
+5000,female,60+,east,fashion,online,amazon,5,excellent product! exceeded expectations.,positive,14,yes,no
+5041,female,60+,central,sports,online,amazon,3,average experience overall.,neutral,37,yes,no
+5084,female,60+,south,groceries,online,amazon,5,"amazing experience, highly recommend!",positive,18,yes,no
+5093,male,36-45,east,beauty,online,amazon,5,fast delivery and great packaging.,positive,13,yes,no
+5097,female,26-35,south,fashion,online,amazon,4,great value for money.,positive,13,yes,no
+5100,male,60+,west,home & kitchen,online,amazon,2,not worth the price.,negative,14,yes,yes
+5101,female,36-45,north,books,online,amazon,3,neutral about the quality.,neutral,42,yes,no
+5145,female,60+,west,groceries,online,amazon,1,customer service was unhelpful.,negative,21,yes,yes
+5153,male,18-25,east,groceries,online,amazon,4,fast delivery and great packaging.,positive,6,yes,no
+5162,male,26-35,central,automobile,online,amazon,5,excellent product! exceeded expectations.,positive,36,yes,no
+5184,other,46-60,west,beauty,online,amazon,4,very satisfied with the quality.,positive,43,yes,no
+5205,female,36-45,north,sports,online,amazon,3,neutral about the quality.,neutral,69,no,no
+5273,male,46-60,east,books,online,amazon,4,very satisfied with the quality.,positive,26,yes,no
+5287,male,26-35,east,books,online,amazon,2,very disappointed with the quality.,negative,1,yes,yes
+5323,other,60+,central,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,57,no,no
+5350,female,18-25,north,automobile,online,amazon,3,"product is okay, nothing special.",neutral,32,yes,no
+5362,other,36-45,north,travel,online,amazon,3,average experience overall.,neutral,2,yes,no
+5378,male,26-35,central,electronics,online,amazon,4,great value for money.,positive,19,yes,no
+5398,female,18-25,central,sports,online,amazon,1,product stopped working after few days.,negative,51,no,yes
+5417,female,36-45,west,home & kitchen,online,amazon,3,works fine but could be better.,neutral,8,yes,no
+5423,male,26-35,central,travel,online,amazon,4,fast delivery and great packaging.,positive,34,yes,no
+5434,female,36-45,central,beauty,online,amazon,5,great value for money.,positive,11,yes,no
+5507,male,60+,south,fashion,online,amazon,4,great value for money.,positive,71,no,no
+5520,female,18-25,central,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,39,yes,no
+5536,other,18-25,east,books,online,amazon,3,works fine but could be better.,neutral,68,no,no
+5542,male,26-35,east,beauty,online,amazon,4,excellent product! exceeded expectations.,positive,29,yes,no
+5553,female,26-35,east,electronics,online,amazon,3,"delivery was fine, product is decent.",neutral,71,no,no
+5602,other,18-25,south,books,online,amazon,5,excellent product! exceeded expectations.,positive,70,no,no
+5611,male,46-60,south,books,online,amazon,1,not worth the price.,negative,4,yes,yes
+5622,male,36-45,west,automobile,online,amazon,3,average experience overall.,neutral,20,yes,no
+5660,other,26-35,central,home & kitchen,online,amazon,4,"amazing experience, highly recommend!",positive,8,yes,no
+5678,female,60+,south,beauty,online,amazon,1,customer service was unhelpful.,negative,26,yes,yes
+5696,male,36-45,west,automobile,online,amazon,1,very disappointed with the quality.,negative,46,yes,yes
+5707,female,18-25,east,automobile,online,amazon,5,fast delivery and great packaging.,positive,49,no,no
+5709,female,18-25,east,automobile,online,amazon,3,neutral about the quality.,neutral,40,yes,no
+5791,other,26-35,central,books,online,amazon,1,customer service was unhelpful.,negative,17,yes,yes
+5800,female,26-35,north,automobile,online,amazon,3,"delivery was fine, product is decent.",neutral,26,yes,no
+5807,female,36-45,east,travel,online,amazon,5,excellent product! exceeded expectations.,positive,9,yes,no
+5854,other,60+,north,fashion,online,amazon,1,very disappointed with the quality.,negative,59,no,yes
+5859,female,18-25,south,books,online,amazon,1,late delivery and poor packaging.,negative,28,yes,yes
+5881,male,60+,west,beauty,online,amazon,4,fast delivery and great packaging.,positive,24,yes,no
+5883,other,60+,east,travel,online,amazon,1,late delivery and poor packaging.,negative,44,yes,yes
+5893,male,36-45,north,sports,online,amazon,5,great value for money.,positive,61,no,no
+5946,male,46-60,central,electronics,online,amazon,2,late delivery and poor packaging.,negative,9,yes,yes
+5962,female,18-25,north,sports,online,amazon,4,"amazing experience, highly recommend!",positive,61,no,no
+5972,male,60+,central,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,10,yes,no
+5999,other,46-60,south,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,66,no,no
+6034,other,36-45,east,fashion,online,amazon,1,customer service was unhelpful.,negative,52,no,yes
+6050,male,46-60,south,groceries,online,amazon,5,very satisfied with the quality.,positive,2,yes,no
+6152,other,26-35,south,electronics,online,amazon,4,fast delivery and great packaging.,positive,41,yes,no
+6161,male,60+,north,electronics,online,amazon,1,not worth the price.,negative,24,yes,yes
+6184,other,18-25,west,travel,online,amazon,5,"amazing experience, highly recommend!",positive,59,no,no
+6185,male,46-60,south,fashion,online,amazon,4,"amazing experience, highly recommend!",positive,48,no,no
+6188,other,36-45,east,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,24,yes,no
+6229,male,60+,south,fashion,online,amazon,1,very disappointed with the quality.,negative,12,yes,yes
+6333,male,26-35,east,groceries,online,amazon,5,fast delivery and great packaging.,positive,40,yes,no
+6335,male,36-45,west,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,39,yes,no
+6339,other,60+,east,books,online,amazon,4,fast delivery and great packaging.,positive,51,no,no
+6344,other,18-25,south,electronics,online,amazon,5,great value for money.,positive,56,no,no
+6350,other,18-25,north,sports,online,amazon,5,fast delivery and great packaging.,positive,41,yes,no
+6369,male,26-35,north,beauty,online,amazon,3,works fine but could be better.,neutral,48,no,no
+6371,other,36-45,east,home & kitchen,online,amazon,3,works fine but could be better.,neutral,39,yes,no
+6373,other,60+,west,electronics,online,amazon,3,works fine but could be better.,neutral,18,yes,no
+6389,male,46-60,east,beauty,online,amazon,4,very satisfied with the quality.,positive,56,no,no
+6415,male,18-25,central,sports,online,amazon,2,product stopped working after few days.,negative,33,yes,yes
+6417,male,36-45,south,fashion,online,amazon,1,product stopped working after few days.,negative,20,yes,yes
+6474,other,26-35,west,fashion,online,amazon,3,neutral about the quality.,neutral,56,no,no
+6519,male,46-60,north,groceries,online,amazon,3,works fine but could be better.,neutral,59,no,no
+6576,female,26-35,east,fashion,online,amazon,2,customer service was unhelpful.,negative,20,yes,yes
+6618,female,18-25,north,travel,online,amazon,3,neutral about the quality.,neutral,13,yes,no
+6630,male,18-25,central,fashion,online,amazon,4,very satisfied with the quality.,positive,33,yes,no
+6674,female,18-25,south,fashion,online,amazon,4,excellent product! exceeded expectations.,positive,16,yes,no
+6705,other,18-25,south,sports,online,amazon,1,product stopped working after few days.,negative,35,yes,yes
+6737,female,46-60,north,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,22,yes,no
+6830,male,60+,east,travel,online,amazon,2,late delivery and poor packaging.,negative,35,yes,yes
+6918,male,26-35,central,home & kitchen,online,amazon,3,works fine but could be better.,neutral,2,yes,no
+6938,male,18-25,south,sports,online,amazon,1,late delivery and poor packaging.,negative,64,no,yes
+6940,other,46-60,north,electronics,online,amazon,4,fast delivery and great packaging.,positive,69,no,no
+6950,female,36-45,south,home & kitchen,online,amazon,4,excellent product! exceeded expectations.,positive,69,no,no
+6988,female,36-45,west,travel,online,amazon,3,works fine but could be better.,neutral,54,no,no
+6997,female,26-35,south,books,online,amazon,3,works fine but could be better.,neutral,13,yes,no
+7003,other,60+,south,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,34,yes,no
+7046,male,60+,north,automobile,online,amazon,4,very satisfied with the quality.,positive,44,yes,no
+7141,male,36-45,east,sports,online,amazon,2,customer service was unhelpful.,negative,44,yes,yes
+7155,female,60+,central,home & kitchen,online,amazon,1,product stopped working after few days.,negative,22,yes,yes
+7210,other,46-60,south,books,online,amazon,2,late delivery and poor packaging.,negative,8,yes,yes
+7212,male,26-35,west,sports,online,amazon,3,neutral about the quality.,neutral,13,yes,no
+7219,male,46-60,west,books,online,amazon,4,excellent product! exceeded expectations.,positive,17,yes,no
+7233,female,18-25,central,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,39,yes,no
+7236,male,60+,north,sports,online,amazon,2,very disappointed with the quality.,negative,40,yes,yes
+7258,female,26-35,south,beauty,online,amazon,4,great value for money.,positive,28,yes,no
+7259,male,46-60,south,fashion,online,amazon,5,great value for money.,positive,60,no,no
+7285,male,60+,east,fashion,online,amazon,1,late delivery and poor packaging.,negative,31,yes,yes
+7301,other,46-60,west,travel,online,amazon,4,very satisfied with the quality.,positive,13,yes,no
+7320,male,60+,west,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,65,no,no
+7333,female,26-35,west,travel,online,amazon,4,fast delivery and great packaging.,positive,4,yes,no
+7354,male,46-60,central,electronics,online,amazon,3,"delivery was fine, product is decent.",neutral,14,yes,no
+7369,male,60+,east,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,20,yes,no
+7372,male,18-25,north,beauty,online,amazon,5,fast delivery and great packaging.,positive,2,yes,no
+7378,female,60+,north,books,online,amazon,2,very disappointed with the quality.,negative,32,yes,yes
+7382,male,26-35,west,sports,online,amazon,3,works fine but could be better.,neutral,50,no,no
+7410,male,36-45,south,books,online,amazon,3,works fine but could be better.,neutral,30,yes,no
+7446,other,36-45,east,fashion,online,amazon,3,works fine but could be better.,neutral,50,no,no
+7463,male,60+,west,fashion,online,amazon,4,great value for money.,positive,59,no,no
+7470,male,60+,west,groceries,online,amazon,1,not worth the price.,negative,49,no,yes
+7522,other,18-25,west,groceries,online,amazon,3,works fine but could be better.,neutral,35,yes,no
+7529,other,36-45,east,travel,online,amazon,3,works fine but could be better.,neutral,11,yes,no
+7558,other,46-60,north,books,online,amazon,1,not worth the price.,negative,3,yes,yes
+7567,female,60+,south,sports,online,amazon,5,fast delivery and great packaging.,positive,19,yes,no
+7572,other,46-60,south,fashion,online,amazon,4,great value for money.,positive,43,yes,no
+7576,male,36-45,east,fashion,online,amazon,2,product stopped working after few days.,negative,16,yes,yes
+7590,female,36-45,east,home & kitchen,online,amazon,2,product stopped working after few days.,negative,67,no,yes
+7594,female,18-25,east,books,online,amazon,3,average experience overall.,neutral,21,yes,no
+7633,other,46-60,east,groceries,online,amazon,1,customer service was unhelpful.,negative,43,yes,yes
+7635,male,46-60,central,sports,online,amazon,3,works fine but could be better.,neutral,14,yes,no
+7654,male,36-45,west,travel,online,amazon,1,product stopped working after few days.,negative,42,yes,yes
+7684,female,46-60,east,automobile,online,amazon,1,customer service was unhelpful.,negative,46,yes,yes
+7708,female,60+,central,automobile,online,amazon,1,very disappointed with the quality.,negative,2,yes,yes
+7754,male,18-25,east,automobile,online,amazon,1,not worth the price.,negative,48,no,yes
+7757,male,26-35,central,beauty,online,amazon,2,very disappointed with the quality.,negative,27,yes,yes
+7763,female,26-35,south,automobile,online,amazon,1,very disappointed with the quality.,negative,43,yes,yes
+7770,other,36-45,south,travel,online,amazon,5,very satisfied with the quality.,positive,46,yes,no
+7772,male,26-35,west,travel,online,amazon,2,product stopped working after few days.,negative,37,yes,yes
+7826,other,46-60,south,beauty,online,amazon,3,works fine but could be better.,neutral,34,yes,no
+7835,other,26-35,west,sports,online,amazon,4,"amazing experience, highly recommend!",positive,52,no,no
+7845,male,60+,central,books,online,amazon,4,excellent product! exceeded expectations.,positive,44,yes,no
+7849,male,60+,east,books,online,amazon,1,not worth the price.,negative,20,yes,yes
+7850,male,46-60,south,fashion,online,amazon,3,"delivery was fine, product is decent.",neutral,15,yes,no
+7851,male,36-45,central,electronics,online,amazon,2,product stopped working after few days.,negative,33,yes,yes
+7926,other,18-25,west,travel,online,amazon,2,customer service was unhelpful.,negative,17,yes,yes
+7938,female,26-35,central,fashion,online,amazon,1,not worth the price.,negative,16,yes,yes
+7943,female,60+,north,beauty,online,amazon,2,very disappointed with the quality.,negative,31,yes,yes
+7949,female,60+,west,home & kitchen,online,amazon,3,average experience overall.,neutral,40,yes,no
+7966,female,36-45,east,books,online,amazon,1,late delivery and poor packaging.,negative,61,no,yes
+7990,male,18-25,north,sports,online,amazon,5,fast delivery and great packaging.,positive,41,yes,no
+7993,other,26-35,north,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,12,yes,no
+8061,female,60+,north,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,19,yes,no
+8097,female,60+,west,sports,online,amazon,5,"amazing experience, highly recommend!",positive,21,yes,no
+8113,male,46-60,north,groceries,online,amazon,3,average experience overall.,neutral,45,yes,no
+8120,other,18-25,north,fashion,online,amazon,3,"delivery was fine, product is decent.",neutral,66,no,no
+8149,male,18-25,east,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,39,yes,no
+8164,male,60+,east,automobile,online,amazon,5,excellent product! exceeded expectations.,positive,24,yes,no
+8226,other,18-25,central,travel,online,amazon,1,late delivery and poor packaging.,negative,49,no,yes
+8263,other,18-25,central,travel,online,amazon,4,excellent product! exceeded expectations.,positive,30,yes,no
+8268,female,18-25,west,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,16,yes,no
+8293,male,46-60,west,electronics,online,amazon,4,"amazing experience, highly recommend!",positive,55,no,no
+8314,other,36-45,north,beauty,online,amazon,4,excellent product! exceeded expectations.,positive,16,yes,no
+8322,female,18-25,east,home & kitchen,online,amazon,3,"product is okay, nothing special.",neutral,14,yes,no
+8334,male,46-60,south,automobile,online,amazon,3,average experience overall.,neutral,8,yes,no
+8363,other,18-25,west,electronics,online,amazon,1,not worth the price.,negative,44,yes,yes
+8381,male,46-60,south,fashion,online,amazon,5,great value for money.,positive,43,yes,no
+8410,other,26-35,west,travel,online,amazon,4,"amazing experience, highly recommend!",positive,22,yes,no
+8411,other,60+,north,fashion,online,amazon,4,fast delivery and great packaging.,positive,49,no,no
+8412,other,36-45,north,automobile,online,amazon,2,very disappointed with the quality.,negative,19,yes,yes
+8413,male,26-35,north,travel,online,amazon,5,excellent product! exceeded expectations.,positive,51,no,no
+8418,female,46-60,west,travel,online,amazon,2,very disappointed with the quality.,negative,71,no,yes
+8475,other,26-35,central,sports,online,amazon,1,late delivery and poor packaging.,negative,7,yes,yes
+8496,male,60+,south,fashion,online,amazon,3,neutral about the quality.,neutral,16,yes,no
+8506,male,26-35,west,electronics,online,amazon,3,neutral about the quality.,neutral,30,yes,no
+8508,female,46-60,central,fashion,online,amazon,1,product stopped working after few days.,negative,58,no,yes
+8533,male,18-25,central,home & kitchen,online,amazon,2,product stopped working after few days.,negative,2,yes,yes
+8549,male,26-35,south,groceries,online,amazon,1,not worth the price.,negative,40,yes,yes
+8572,male,36-45,west,groceries,online,amazon,4,great value for money.,positive,40,yes,no
+8594,female,36-45,west,groceries,online,amazon,4,fast delivery and great packaging.,positive,59,no,no
+8617,other,36-45,west,beauty,online,amazon,1,very disappointed with the quality.,negative,8,yes,yes
+8623,other,18-25,east,travel,online,amazon,4,fast delivery and great packaging.,positive,49,no,no
+8629,male,26-35,north,automobile,online,amazon,2,product stopped working after few days.,negative,65,no,yes
+8649,other,60+,east,sports,online,amazon,3,average experience overall.,neutral,6,yes,no
+8677,other,46-60,north,travel,online,amazon,2,very disappointed with the quality.,negative,50,no,yes
+8709,female,46-60,central,automobile,online,amazon,5,excellent product! exceeded expectations.,positive,67,no,no
+8758,other,26-35,central,fashion,online,amazon,4,fast delivery and great packaging.,positive,4,yes,no
+8764,male,18-25,central,groceries,online,amazon,5,very satisfied with the quality.,positive,39,yes,no
+8772,other,26-35,central,home & kitchen,online,amazon,4,fast delivery and great packaging.,positive,70,no,no
+8773,female,36-45,south,travel,online,amazon,3,neutral about the quality.,neutral,61,no,no
+8805,female,18-25,east,home & kitchen,online,amazon,3,works fine but could be better.,neutral,22,yes,no
+8819,other,46-60,west,groceries,online,amazon,3,neutral about the quality.,neutral,32,yes,no
+8820,male,46-60,west,automobile,online,amazon,2,customer service was unhelpful.,negative,16,yes,yes
+8825,other,36-45,east,beauty,online,amazon,5,excellent product! exceeded expectations.,positive,8,yes,no
+8839,other,26-35,central,sports,online,amazon,1,product stopped working after few days.,negative,13,yes,yes
+8843,female,36-45,north,fashion,online,amazon,2,late delivery and poor packaging.,negative,2,yes,yes
+8863,other,60+,west,beauty,online,amazon,3,average experience overall.,neutral,23,yes,no
+8869,other,18-25,north,beauty,online,amazon,2,product stopped working after few days.,negative,26,yes,yes
+8879,female,46-60,east,home & kitchen,online,amazon,3,average experience overall.,neutral,23,yes,no
+8899,other,18-25,east,home & kitchen,online,amazon,1,customer service was unhelpful.,negative,10,yes,yes
+8932,male,46-60,east,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,57,no,no
+8940,male,36-45,south,books,online,amazon,4,very satisfied with the quality.,positive,65,no,no
+8967,other,46-60,central,electronics,online,amazon,5,excellent product! exceeded expectations.,positive,27,yes,no
+8970,other,36-45,central,books,online,amazon,4,very satisfied with the quality.,positive,44,yes,no
+8977,other,36-45,north,sports,online,amazon,4,excellent product! exceeded expectations.,positive,6,yes,no
+8992,female,18-25,south,electronics,online,amazon,3,"delivery was fine, product is decent.",neutral,17,yes,no
+8997,male,46-60,south,books,online,amazon,3,average experience overall.,neutral,38,yes,no
+9026,other,60+,south,travel,online,amazon,4,fast delivery and great packaging.,positive,57,no,no
+9058,male,36-45,central,books,online,amazon,2,customer service was unhelpful.,negative,43,yes,yes
+9082,male,36-45,west,automobile,online,amazon,4,fast delivery and great packaging.,positive,71,no,no
+9099,female,60+,east,beauty,online,amazon,1,very disappointed with the quality.,negative,8,yes,yes
+9188,male,18-25,central,electronics,online,amazon,5,"amazing experience, highly recommend!",positive,5,yes,no
+9207,female,46-60,north,beauty,online,amazon,1,late delivery and poor packaging.,negative,8,yes,yes
+9225,male,46-60,central,groceries,online,amazon,3,average experience overall.,neutral,48,no,no
+9232,male,60+,west,fashion,online,amazon,3,average experience overall.,neutral,23,yes,no
+9247,other,46-60,south,travel,online,amazon,5,excellent product! exceeded expectations.,positive,49,no,no
+9251,female,18-25,east,groceries,online,amazon,1,product stopped working after few days.,negative,54,no,yes
+9301,male,60+,east,beauty,online,amazon,3,average experience overall.,neutral,4,yes,no
+9325,female,18-25,east,books,online,amazon,5,excellent product! exceeded expectations.,positive,21,yes,no
+9340,male,18-25,central,electronics,online,amazon,2,very disappointed with the quality.,negative,67,no,yes
+9359,other,60+,east,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,20,yes,no
+9370,other,36-45,east,electronics,online,amazon,3,"delivery was fine, product is decent.",neutral,3,yes,no
+9408,female,18-25,east,home & kitchen,online,amazon,2,not worth the price.,negative,28,yes,yes
+9417,female,26-35,north,books,online,amazon,2,customer service was unhelpful.,negative,21,yes,yes
+9427,female,60+,east,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,14,yes,no
+9448,female,26-35,east,groceries,online,amazon,4,very satisfied with the quality.,positive,61,no,no
+9455,male,18-25,central,travel,online,amazon,4,excellent product! exceeded expectations.,positive,14,yes,no
+9456,male,36-45,east,beauty,online,amazon,4,excellent product! exceeded expectations.,positive,22,yes,no
+9476,male,36-45,north,electronics,online,amazon,2,very disappointed with the quality.,negative,48,no,yes
+9553,female,36-45,central,travel,online,amazon,3,"delivery was fine, product is decent.",neutral,15,yes,no
+9626,female,18-25,central,groceries,online,amazon,4,very satisfied with the quality.,positive,33,yes,no
+9667,female,26-35,central,sports,online,amazon,2,very disappointed with the quality.,negative,63,no,yes
+9709,other,60+,west,home & kitchen,online,amazon,4,fast delivery and great packaging.,positive,55,no,no
+9728,other,18-25,east,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,32,yes,no
+9741,female,26-35,east,fashion,online,amazon,2,very disappointed with the quality.,negative,67,no,yes
+9746,other,46-60,east,travel,online,amazon,5,fast delivery and great packaging.,positive,14,yes,no
+9783,other,36-45,central,sports,online,amazon,2,very disappointed with the quality.,negative,52,no,yes
+9818,other,60+,north,automobile,online,amazon,2,not worth the price.,negative,5,yes,yes
+9918,female,46-60,north,travel,online,amazon,1,product stopped working after few days.,negative,10,yes,yes
+9938,male,46-60,south,home & kitchen,online,amazon,4,very satisfied with the quality.,positive,12,yes,no
+9945,male,18-25,west,sports,online,amazon,1,customer service was unhelpful.,negative,19,yes,yes
+9965,female,60+,south,electronics,online,amazon,4,fast delivery and great packaging.,positive,65,no,no
+9970,male,60+,west,fashion,online,amazon,3,average experience overall.,neutral,15,yes,no
+9973,female,26-35,west,groceries,online,amazon,1,product stopped working after few days.,negative,42,yes,yes
+9975,female,26-35,north,travel,online,amazon,5,great value for money.,positive,59,no,no
+10000,female,26-35,north,sports,online,amazon,3,average experience overall.,neutral,7,yes,no
+10008,male,36-45,north,automobile,online,amazon,4,very satisfied with the quality.,positive,70,no,no
+10013,female,26-35,central,fashion,online,amazon,4,"amazing experience, highly recommend!",positive,42,yes,no
+10034,female,36-45,south,electronics,online,amazon,3,"product is okay, nothing special.",neutral,32,yes,no
+10040,female,60+,east,home & kitchen,online,amazon,4,fast delivery and great packaging.,positive,51,no,no
+10053,other,60+,central,books,online,amazon,4,fast delivery and great packaging.,positive,53,no,no
+10070,female,18-25,north,books,online,amazon,2,not worth the price.,negative,26,yes,yes
+10078,other,36-45,south,electronics,online,amazon,2,very disappointed with the quality.,negative,42,yes,yes
+10153,female,60+,central,electronics,online,amazon,3,average experience overall.,neutral,7,yes,no
+10167,female,18-25,east,groceries,online,amazon,1,late delivery and poor packaging.,negative,33,yes,yes
+10171,male,46-60,west,travel,online,amazon,3,"product is okay, nothing special.",neutral,38,yes,no
+10205,other,26-35,central,electronics,online,amazon,2,product stopped working after few days.,negative,67,no,yes
+10214,male,60+,north,electronics,online,amazon,1,not worth the price.,negative,53,no,yes
+10230,male,26-35,east,fashion,online,amazon,2,product stopped working after few days.,negative,43,yes,yes
+10252,male,46-60,north,travel,online,amazon,5,excellent product! exceeded expectations.,positive,12,yes,no
+10262,male,36-45,east,automobile,online,amazon,2,customer service was unhelpful.,negative,71,no,yes
+10263,other,60+,north,fashion,online,amazon,3,"product is okay, nothing special.",neutral,35,yes,no
+10267,male,36-45,south,fashion,online,amazon,1,product stopped working after few days.,negative,48,no,yes
+10269,female,26-35,central,beauty,online,amazon,4,fast delivery and great packaging.,positive,61,no,no
+10292,other,18-25,central,books,online,amazon,2,product stopped working after few days.,negative,23,yes,yes
+10332,other,26-35,south,automobile,online,amazon,2,product stopped working after few days.,negative,3,yes,yes
+10406,male,26-35,central,home & kitchen,online,amazon,1,customer service was unhelpful.,negative,60,no,yes
+10410,male,60+,south,home & kitchen,online,amazon,4,very satisfied with the quality.,positive,15,yes,no
+10428,other,36-45,east,sports,online,amazon,5,"amazing experience, highly recommend!",positive,69,no,no
+10436,male,36-45,north,automobile,online,amazon,1,very disappointed with the quality.,negative,27,yes,yes
+10476,male,46-60,central,fashion,online,amazon,1,product stopped working after few days.,negative,38,yes,yes
+10479,female,26-35,central,groceries,online,amazon,5,"amazing experience, highly recommend!",positive,7,yes,no
+10492,female,46-60,north,beauty,online,amazon,5,very satisfied with the quality.,positive,38,yes,no
+10500,other,36-45,east,books,online,amazon,2,product stopped working after few days.,negative,45,yes,yes
+10577,other,36-45,south,sports,online,amazon,1,very disappointed with the quality.,negative,40,yes,yes
+10592,female,36-45,north,sports,online,amazon,4,very satisfied with the quality.,positive,58,no,no
+10599,other,18-25,central,beauty,online,amazon,5,excellent product! exceeded expectations.,positive,49,no,no
+10621,female,46-60,east,beauty,online,amazon,5,excellent product! exceeded expectations.,positive,37,yes,no
+10623,other,36-45,central,fashion,online,amazon,2,product stopped working after few days.,negative,67,no,yes
+10641,female,46-60,north,beauty,online,amazon,4,excellent product! exceeded expectations.,positive,62,no,no
+10650,male,36-45,north,travel,online,amazon,4,"amazing experience, highly recommend!",positive,20,yes,no
+10671,male,60+,east,automobile,online,amazon,3,neutral about the quality.,neutral,19,yes,no
+10682,female,18-25,central,automobile,online,amazon,1,product stopped working after few days.,negative,21,yes,yes
+10696,other,18-25,central,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,67,no,no
+10698,female,18-25,south,groceries,online,amazon,3,works fine but could be better.,neutral,53,no,no
+10735,female,18-25,south,automobile,online,amazon,2,product stopped working after few days.,negative,37,yes,yes
+10777,female,46-60,west,fashion,online,amazon,5,"amazing experience, highly recommend!",positive,27,yes,no
+10781,male,46-60,west,electronics,online,amazon,4,very satisfied with the quality.,positive,20,yes,no
+10794,male,60+,south,fashion,online,amazon,4,great value for money.,positive,14,yes,no
+10805,female,26-35,central,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,63,no,no
+10806,female,60+,east,home & kitchen,online,amazon,1,late delivery and poor packaging.,negative,48,no,yes
+10810,female,46-60,west,books,online,amazon,3,neutral about the quality.,neutral,68,no,no
+10812,other,18-25,north,sports,online,amazon,5,fast delivery and great packaging.,positive,20,yes,no
+10820,other,60+,north,electronics,online,amazon,5,great value for money.,positive,61,no,no
+10822,male,46-60,west,books,online,amazon,3,neutral about the quality.,neutral,27,yes,no
+10825,other,46-60,central,sports,online,amazon,3,average experience overall.,neutral,1,yes,no
+10826,male,26-35,north,electronics,online,amazon,2,very disappointed with the quality.,negative,33,yes,yes
+10830,other,36-45,west,travel,online,amazon,5,great value for money.,positive,35,yes,no
+10861,male,18-25,east,fashion,online,amazon,1,not worth the price.,negative,9,yes,yes
+10873,female,26-35,central,travel,online,amazon,1,very disappointed with the quality.,negative,40,yes,yes
+10882,male,36-45,east,travel,online,amazon,2,late delivery and poor packaging.,negative,66,no,yes
+10893,male,18-25,north,fashion,online,amazon,5,"amazing experience, highly recommend!",positive,60,no,no
+10928,other,60+,east,fashion,online,amazon,1,late delivery and poor packaging.,negative,16,yes,yes
+10932,other,46-60,west,books,online,amazon,2,customer service was unhelpful.,negative,51,no,yes
+10945,female,46-60,north,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,57,no,no
+10958,female,60+,west,travel,online,amazon,1,customer service was unhelpful.,negative,5,yes,yes
+10968,female,46-60,west,home & kitchen,online,amazon,1,late delivery and poor packaging.,negative,29,yes,yes
+10974,other,18-25,south,books,online,amazon,5,excellent product! exceeded expectations.,positive,3,yes,no
+10989,female,60+,central,automobile,online,amazon,4,great value for money.,positive,14,yes,no
+10994,other,46-60,south,electronics,online,amazon,1,very disappointed with the quality.,negative,66,no,yes
+11004,female,46-60,south,sports,online,amazon,5,excellent product! exceeded expectations.,positive,51,no,no
+11035,female,26-35,west,books,online,amazon,5,great value for money.,positive,25,yes,no
+11045,male,36-45,west,home & kitchen,online,amazon,3,average experience overall.,neutral,5,yes,no
+11060,other,46-60,south,beauty,online,amazon,2,not worth the price.,negative,10,yes,yes
+11064,other,60+,central,automobile,online,amazon,1,very disappointed with the quality.,negative,60,no,yes
+11074,male,36-45,south,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,69,no,no
+11104,male,26-35,east,books,online,amazon,2,product stopped working after few days.,negative,33,yes,yes
+11222,male,46-60,east,automobile,online,amazon,3,works fine but could be better.,neutral,54,no,no
+11233,male,36-45,east,travel,online,amazon,4,excellent product! exceeded expectations.,positive,54,no,no
+11247,male,18-25,west,electronics,online,amazon,3,"product is okay, nothing special.",neutral,63,no,no
+11250,male,36-45,central,sports,online,amazon,3,"delivery was fine, product is decent.",neutral,19,yes,no
+11252,female,36-45,east,electronics,online,amazon,5,very satisfied with the quality.,positive,69,no,no
+11272,other,18-25,east,travel,online,amazon,3,"delivery was fine, product is decent.",neutral,12,yes,no
+11292,male,26-35,central,automobile,online,amazon,1,late delivery and poor packaging.,negative,36,yes,yes
+11334,male,60+,south,sports,online,amazon,4,great value for money.,positive,6,yes,no
+11343,female,26-35,central,electronics,online,amazon,2,late delivery and poor packaging.,negative,29,yes,yes
+11373,other,36-45,central,home & kitchen,online,amazon,2,not worth the price.,negative,65,no,yes
+11438,male,26-35,north,electronics,online,amazon,3,average experience overall.,neutral,31,yes,no
+11447,other,36-45,central,travel,online,amazon,2,not worth the price.,negative,34,yes,yes
+11463,female,18-25,south,electronics,online,amazon,4,fast delivery and great packaging.,positive,48,no,no
+11477,male,60+,central,beauty,online,amazon,4,fast delivery and great packaging.,positive,56,no,no
+11481,male,36-45,north,sports,online,amazon,4,"amazing experience, highly recommend!",positive,29,yes,no
+11482,other,36-45,north,sports,online,amazon,5,very satisfied with the quality.,positive,53,no,no
+11500,other,26-35,east,electronics,online,amazon,3,works fine but could be better.,neutral,69,no,no
+11524,other,46-60,west,automobile,online,amazon,5,very satisfied with the quality.,positive,8,yes,no
+11525,female,46-60,north,groceries,online,amazon,3,"product is okay, nothing special.",neutral,3,yes,no
+11537,female,26-35,east,sports,online,amazon,4,excellent product! exceeded expectations.,positive,23,yes,no
+11560,male,26-35,north,travel,online,amazon,4,excellent product! exceeded expectations.,positive,41,yes,no
+11563,other,36-45,north,books,online,amazon,2,customer service was unhelpful.,negative,59,no,yes
+11583,male,18-25,west,home & kitchen,online,amazon,5,"amazing experience, highly recommend!",positive,55,no,no
+11627,female,18-25,north,sports,online,amazon,3,"product is okay, nothing special.",neutral,41,yes,no
+11679,male,26-35,north,fashion,online,amazon,5,excellent product! exceeded expectations.,positive,13,yes,no
+11691,male,46-60,south,fashion,online,amazon,1,late delivery and poor packaging.,negative,56,no,yes
+11723,female,36-45,east,automobile,online,amazon,5,great value for money.,positive,19,yes,no
+11729,other,36-45,west,automobile,online,amazon,3,"delivery was fine, product is decent.",neutral,9,yes,no
+11776,male,26-35,north,home & kitchen,online,amazon,4,excellent product! exceeded expectations.,positive,1,yes,no
+11802,other,46-60,east,automobile,online,amazon,2,not worth the price.,negative,16,yes,yes
+11820,male,46-60,south,groceries,online,amazon,1,product stopped working after few days.,negative,45,yes,yes
+11862,other,46-60,south,fashion,online,amazon,2,customer service was unhelpful.,negative,34,yes,yes
+11890,male,60+,east,fashion,online,amazon,4,fast delivery and great packaging.,positive,28,yes,no
+11900,female,26-35,east,beauty,online,amazon,4,excellent product! exceeded expectations.,positive,66,no,no
+11906,female,46-60,central,fashion,online,amazon,2,customer service was unhelpful.,negative,71,no,yes
+11958,male,46-60,east,sports,online,amazon,3,"product is okay, nothing special.",neutral,32,yes,no
+11962,female,46-60,north,travel,online,amazon,5,"amazing experience, highly recommend!",positive,37,yes,no
+11979,other,18-25,west,books,online,amazon,4,very satisfied with the quality.,positive,24,yes,no
+11997,male,36-45,east,beauty,online,amazon,5,excellent product! exceeded expectations.,positive,19,yes,no
+11999,female,26-35,south,groceries,online,amazon,1,late delivery and poor packaging.,negative,63,no,yes
+12004,male,46-60,west,books,online,amazon,4,"amazing experience, highly recommend!",positive,33,yes,no
+12017,female,46-60,south,sports,online,amazon,5,excellent product! exceeded expectations.,positive,14,yes,no
+12057,female,18-25,south,books,online,amazon,3,works fine but could be better.,neutral,20,yes,no
+12077,other,46-60,central,groceries,online,amazon,3,"product is okay, nothing special.",neutral,52,no,no
+12084,male,46-60,west,home & kitchen,online,amazon,1,customer service was unhelpful.,negative,69,no,yes
+12136,male,26-35,central,beauty,online,amazon,2,not worth the price.,negative,6,yes,yes
+12205,female,26-35,north,home & kitchen,online,amazon,2,not worth the price.,negative,43,yes,yes
+12214,other,46-60,west,electronics,online,amazon,5,excellent product! exceeded expectations.,positive,7,yes,no
+12227,male,46-60,central,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,71,no,no
+12230,female,36-45,central,beauty,online,amazon,4,fast delivery and great packaging.,positive,22,yes,no
+12235,other,26-35,central,beauty,online,amazon,1,product stopped working after few days.,negative,59,no,yes
+12254,male,36-45,south,travel,online,amazon,3,"product is okay, nothing special.",neutral,43,yes,no
+12265,male,18-25,east,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,9,yes,no
+12269,male,18-25,east,travel,online,amazon,1,product stopped working after few days.,negative,50,no,yes
+12272,male,46-60,south,fashion,online,amazon,3,average experience overall.,neutral,19,yes,no
+12290,female,46-60,east,books,online,amazon,4,excellent product! exceeded expectations.,positive,28,yes,no
+12292,female,26-35,south,fashion,online,amazon,5,great value for money.,positive,33,yes,no
+12340,other,36-45,east,books,online,amazon,1,customer service was unhelpful.,negative,64,no,yes
+12343,female,18-25,west,electronics,online,amazon,3,neutral about the quality.,neutral,46,yes,no
+12348,female,46-60,south,books,online,amazon,4,great value for money.,positive,36,yes,no
+12372,other,26-35,west,beauty,online,amazon,3,average experience overall.,neutral,39,yes,no
+12392,female,60+,west,electronics,online,amazon,2,very disappointed with the quality.,negative,56,no,yes
+12428,female,36-45,east,automobile,online,amazon,4,very satisfied with the quality.,positive,40,yes,no
+12452,male,46-60,east,fashion,online,amazon,1,not worth the price.,negative,13,yes,yes
+12460,female,46-60,central,books,online,amazon,3,average experience overall.,neutral,44,yes,no
+12475,other,26-35,central,groceries,online,amazon,4,great value for money.,positive,50,no,no
+12536,other,60+,central,home & kitchen,online,amazon,5,fast delivery and great packaging.,positive,52,no,no
+12539,male,18-25,south,sports,online,amazon,1,late delivery and poor packaging.,negative,42,yes,yes
+12547,other,60+,south,sports,online,amazon,5,fast delivery and great packaging.,positive,56,no,no
+12592,other,60+,north,travel,online,amazon,4,"amazing experience, highly recommend!",positive,50,no,no
+12621,other,36-45,west,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,28,yes,no
+12623,male,46-60,north,books,online,amazon,5,great value for money.,positive,69,no,no
+12644,female,46-60,west,books,online,amazon,2,very disappointed with the quality.,negative,7,yes,yes
+12668,female,36-45,east,automobile,online,amazon,2,not worth the price.,negative,55,no,yes
+12698,female,60+,central,fashion,online,amazon,2,product stopped working after few days.,negative,5,yes,yes
+12713,female,46-60,east,home & kitchen,online,amazon,2,not worth the price.,negative,1,yes,yes
+12714,male,36-45,west,groceries,online,amazon,4,great value for money.,positive,21,yes,no
+12726,female,60+,north,books,online,amazon,2,product stopped working after few days.,negative,26,yes,yes
+12770,male,26-35,south,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,62,no,no
+12783,female,46-60,north,electronics,online,amazon,4,fast delivery and great packaging.,positive,50,no,no
+12803,male,46-60,west,electronics,online,amazon,4,"amazing experience, highly recommend!",positive,64,no,no
+12813,female,46-60,south,books,online,amazon,1,customer service was unhelpful.,negative,43,yes,yes
+12845,other,36-45,east,automobile,online,amazon,5,excellent product! exceeded expectations.,positive,66,no,no
+12855,male,18-25,north,books,online,amazon,5,great value for money.,positive,61,no,no
+12860,male,26-35,west,books,online,amazon,5,excellent product! exceeded expectations.,positive,22,yes,no
+12892,male,60+,east,travel,online,amazon,4,fast delivery and great packaging.,positive,2,yes,no
+12928,male,18-25,south,home & kitchen,online,amazon,2,very disappointed with the quality.,negative,19,yes,yes
+12977,female,60+,south,travel,online,amazon,2,product stopped working after few days.,negative,33,yes,yes
+13018,female,18-25,central,travel,online,amazon,4,very satisfied with the quality.,positive,65,no,no
+13022,other,18-25,south,home & kitchen,online,amazon,1,late delivery and poor packaging.,negative,35,yes,yes
+13027,male,36-45,south,home & kitchen,online,amazon,2,customer service was unhelpful.,negative,11,yes,yes
+13090,male,26-35,north,sports,online,amazon,4,"amazing experience, highly recommend!",positive,67,no,no
+13143,male,46-60,north,fashion,online,amazon,2,not worth the price.,negative,19,yes,yes
+13151,male,26-35,south,automobile,online,amazon,1,late delivery and poor packaging.,negative,57,no,yes
+13153,male,46-60,south,groceries,online,amazon,2,late delivery and poor packaging.,negative,60,no,yes
+13160,other,26-35,north,groceries,online,amazon,2,late delivery and poor packaging.,negative,12,yes,yes
+13181,other,60+,north,beauty,online,amazon,3,works fine but could be better.,neutral,26,yes,no
+13183,other,46-60,south,home & kitchen,online,amazon,1,very disappointed with the quality.,negative,36,yes,yes
+13198,male,18-25,north,travel,online,amazon,5,fast delivery and great packaging.,positive,21,yes,no
+13209,other,46-60,south,electronics,online,amazon,2,customer service was unhelpful.,negative,3,yes,yes
+13216,male,36-45,south,sports,online,amazon,5,"amazing experience, highly recommend!",positive,31,yes,no
+13351,male,26-35,west,beauty,online,amazon,2,not worth the price.,negative,4,yes,yes
+13356,other,18-25,west,beauty,online,amazon,4,very satisfied with the quality.,positive,65,no,no
+13377,female,46-60,north,travel,online,amazon,5,excellent product! exceeded expectations.,positive,50,no,no
+13382,female,60+,south,beauty,online,amazon,3,neutral about the quality.,neutral,55,no,no
+13426,male,60+,central,automobile,online,amazon,2,late delivery and poor packaging.,negative,48,no,yes
+13433,female,26-35,east,groceries,online,amazon,1,customer service was unhelpful.,negative,55,no,yes
+13438,female,60+,west,fashion,online,amazon,4,great value for money.,positive,61,no,no
+13452,female,36-45,east,travel,online,amazon,3,"delivery was fine, product is decent.",neutral,32,yes,no
+13453,male,18-25,east,automobile,online,amazon,3,average experience overall.,neutral,29,yes,no
+13469,female,60+,south,groceries,online,amazon,5,great value for money.,positive,54,no,no
+13531,other,36-45,south,groceries,online,amazon,1,very disappointed with the quality.,negative,42,yes,yes
+13598,female,26-35,west,travel,online,amazon,2,not worth the price.,negative,28,yes,yes
+13619,other,26-35,west,home & kitchen,online,amazon,5,very satisfied with the quality.,positive,25,yes,no
+13627,male,36-45,central,groceries,online,amazon,1,very disappointed with the quality.,negative,15,yes,yes
+13636,male,18-25,north,electronics,online,amazon,4,fast delivery and great packaging.,positive,12,yes,no
+13643,other,46-60,north,travel,online,amazon,3,average experience overall.,neutral,51,no,no
+13664,female,46-60,central,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,58,no,no
+13667,other,26-35,west,fashion,online,amazon,5,"amazing experience, highly recommend!",positive,36,yes,no
+13679,other,36-45,east,fashion,online,amazon,2,not worth the price.,negative,36,yes,yes
+13744,female,60+,south,groceries,online,amazon,4,great value for money.,positive,18,yes,no
+13785,other,36-45,east,electronics,online,amazon,4,"amazing experience, highly recommend!",positive,33,yes,no
+13813,male,46-60,central,automobile,online,amazon,4,very satisfied with the quality.,positive,22,yes,no
+13825,female,18-25,east,electronics,online,amazon,5,"amazing experience, highly recommend!",positive,30,yes,no
+13842,other,60+,west,electronics,online,amazon,1,very disappointed with the quality.,negative,50,no,yes
+13844,other,60+,north,books,online,amazon,2,not worth the price.,negative,69,no,yes
+13852,male,18-25,south,books,online,amazon,2,very disappointed with the quality.,negative,63,no,yes
+13935,other,36-45,west,home & kitchen,online,amazon,1,customer service was unhelpful.,negative,34,yes,yes
+13988,female,26-35,east,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,50,no,no
+14007,male,46-60,west,electronics,online,amazon,1,product stopped working after few days.,negative,50,no,yes
+14017,male,60+,west,beauty,online,amazon,1,very disappointed with the quality.,negative,64,no,yes
+14029,other,46-60,north,travel,online,amazon,4,fast delivery and great packaging.,positive,2,yes,no
+14056,male,46-60,east,beauty,online,amazon,2,not worth the price.,negative,1,yes,yes
+14074,male,46-60,east,groceries,online,amazon,5,"amazing experience, highly recommend!",positive,6,yes,no
+14113,male,36-45,south,automobile,online,amazon,2,late delivery and poor packaging.,negative,45,yes,yes
+14195,male,36-45,central,travel,online,amazon,4,excellent product! exceeded expectations.,positive,5,yes,no
+14224,female,60+,central,electronics,online,amazon,5,very satisfied with the quality.,positive,26,yes,no
+14228,female,26-35,south,fashion,online,amazon,5,very satisfied with the quality.,positive,28,yes,no
+14265,other,18-25,south,sports,online,amazon,3,neutral about the quality.,neutral,70,no,no
+14296,other,26-35,south,groceries,online,amazon,1,customer service was unhelpful.,negative,31,yes,yes
+14298,other,36-45,east,home & kitchen,online,amazon,1,product stopped working after few days.,negative,2,yes,yes
+14356,other,36-45,north,travel,online,amazon,2,not worth the price.,negative,2,yes,yes
+14360,male,26-35,central,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,40,yes,no
+14361,female,36-45,east,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,38,yes,no
+14384,male,60+,central,beauty,online,amazon,5,very satisfied with the quality.,positive,63,no,no
+14387,male,26-35,east,electronics,online,amazon,1,customer service was unhelpful.,negative,57,no,yes
+14403,female,46-60,south,home & kitchen,online,amazon,2,customer service was unhelpful.,negative,50,no,yes
+14440,male,26-35,south,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,62,no,no
+14443,female,46-60,east,sports,online,amazon,3,average experience overall.,neutral,55,no,no
+14468,female,60+,north,fashion,online,amazon,1,product stopped working after few days.,negative,25,yes,yes
+14479,female,26-35,north,groceries,online,amazon,3,"product is okay, nothing special.",neutral,48,no,no
+14486,other,18-25,east,groceries,online,amazon,2,late delivery and poor packaging.,negative,20,yes,yes
+14487,other,46-60,east,travel,online,amazon,5,fast delivery and great packaging.,positive,69,no,no
+14508,female,60+,west,automobile,online,amazon,2,very disappointed with the quality.,negative,14,yes,yes
+14514,female,18-25,south,home & kitchen,online,amazon,1,product stopped working after few days.,negative,57,no,yes
+14530,female,36-45,north,groceries,online,amazon,3,"product is okay, nothing special.",neutral,60,no,no
+14533,other,36-45,north,beauty,online,amazon,4,fast delivery and great packaging.,positive,70,no,no
+14541,male,26-35,west,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,17,yes,no
+14548,male,46-60,central,beauty,online,amazon,5,very satisfied with the quality.,positive,39,yes,no
+14552,other,18-25,east,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,50,no,no
+14566,male,26-35,east,books,online,amazon,4,"amazing experience, highly recommend!",positive,53,no,no
+14582,female,18-25,north,electronics,online,amazon,2,customer service was unhelpful.,negative,35,yes,yes
+14593,female,18-25,south,electronics,online,amazon,3,works fine but could be better.,neutral,61,no,no
+14642,male,60+,south,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,61,no,no
+14670,female,60+,west,automobile,online,amazon,3,"delivery was fine, product is decent.",neutral,68,no,no
+14694,female,60+,north,travel,online,amazon,3,works fine but could be better.,neutral,69,no,no
+14702,male,46-60,central,travel,online,amazon,3,"delivery was fine, product is decent.",neutral,52,no,no
+14717,male,46-60,east,books,online,amazon,4,"amazing experience, highly recommend!",positive,20,yes,no
+14849,male,18-25,north,books,online,amazon,5,excellent product! exceeded expectations.,positive,62,no,no
+14854,other,46-60,north,travel,online,amazon,2,not worth the price.,negative,18,yes,yes
+14879,female,60+,south,travel,online,amazon,2,not worth the price.,negative,2,yes,yes
+14950,female,18-25,west,electronics,online,amazon,4,great value for money.,positive,71,no,no
+14983,female,36-45,south,books,online,amazon,1,product stopped working after few days.,negative,34,yes,yes
+14994,male,36-45,west,electronics,online,amazon,2,very disappointed with the quality.,negative,51,no,yes
+14997,female,26-35,east,books,online,amazon,2,customer service was unhelpful.,negative,27,yes,yes
+15041,other,60+,central,books,online,amazon,1,product stopped working after few days.,negative,54,no,yes
+15069,male,46-60,central,home & kitchen,online,amazon,3,"delivery was fine, product is decent.",neutral,29,yes,no
+15091,other,60+,east,electronics,online,amazon,5,great value for money.,positive,68,no,no
+15186,other,36-45,west,automobile,online,amazon,1,product stopped working after few days.,negative,48,no,yes
+15188,other,18-25,west,automobile,online,amazon,1,not worth the price.,negative,11,yes,yes
+15211,male,18-25,central,sports,online,amazon,3,"product is okay, nothing special.",neutral,70,no,no
+15231,other,18-25,east,beauty,online,amazon,5,very satisfied with the quality.,positive,55,no,no
+15301,other,26-35,south,electronics,online,amazon,2,product stopped working after few days.,negative,16,yes,yes
+15308,male,60+,west,beauty,online,amazon,4,fast delivery and great packaging.,positive,24,yes,no
+15328,other,46-60,east,automobile,online,amazon,2,not worth the price.,negative,20,yes,yes
+15344,male,60+,south,fashion,online,amazon,2,customer service was unhelpful.,negative,12,yes,yes
+15382,male,26-35,north,beauty,online,amazon,4,very satisfied with the quality.,positive,61,no,no
+15419,female,46-60,west,sports,online,amazon,5,very satisfied with the quality.,positive,15,yes,no
+15424,other,46-60,west,automobile,online,amazon,3,works fine but could be better.,neutral,42,yes,no
+15433,male,60+,south,electronics,online,amazon,2,very disappointed with the quality.,negative,13,yes,yes
+15467,female,18-25,central,sports,online,amazon,4,fast delivery and great packaging.,positive,42,yes,no
+15511,male,26-35,east,travel,online,amazon,3,"product is okay, nothing special.",neutral,25,yes,no
+15529,female,60+,north,books,online,amazon,1,very disappointed with the quality.,negative,52,no,yes
+15539,other,46-60,south,groceries,online,amazon,2,not worth the price.,negative,54,no,yes
+15598,female,60+,west,groceries,online,amazon,4,great value for money.,positive,70,no,no
+15605,other,46-60,east,home & kitchen,online,amazon,2,product stopped working after few days.,negative,26,yes,yes
+15613,female,18-25,central,travel,online,amazon,4,great value for money.,positive,24,yes,no
+15626,other,36-45,south,sports,online,amazon,4,great value for money.,positive,71,no,no
+15642,female,26-35,east,fashion,online,amazon,2,very disappointed with the quality.,negative,16,yes,yes
+15670,female,18-25,east,groceries,online,amazon,2,very disappointed with the quality.,negative,57,no,yes
+15730,other,26-35,west,automobile,online,amazon,3,"delivery was fine, product is decent.",neutral,39,yes,no
+15738,female,60+,east,home & kitchen,online,amazon,1,product stopped working after few days.,negative,69,no,yes
+15743,other,26-35,west,beauty,online,amazon,2,late delivery and poor packaging.,negative,69,no,yes
+15774,male,60+,south,travel,online,amazon,4,great value for money.,positive,19,yes,no
+15802,female,26-35,south,beauty,online,amazon,2,very disappointed with the quality.,negative,33,yes,yes
+15820,female,26-35,central,sports,online,amazon,4,great value for money.,positive,45,yes,no
+15821,other,60+,west,books,online,amazon,3,"delivery was fine, product is decent.",neutral,43,yes,no
+15822,other,18-25,east,automobile,online,amazon,4,"amazing experience, highly recommend!",positive,28,yes,no
+15844,female,36-45,central,electronics,online,amazon,4,"amazing experience, highly recommend!",positive,19,yes,no
+15849,male,60+,north,books,online,amazon,2,customer service was unhelpful.,negative,9,yes,yes
+15913,female,60+,east,automobile,online,amazon,3,average experience overall.,neutral,24,yes,no
+15919,male,36-45,south,fashion,online,amazon,3,"product is okay, nothing special.",neutral,47,yes,no
+15925,male,36-45,central,automobile,online,amazon,3,works fine but could be better.,neutral,47,yes,no
+15946,female,26-35,north,sports,online,amazon,1,customer service was unhelpful.,negative,22,yes,yes
+15977,other,36-45,south,beauty,online,amazon,1,very disappointed with the quality.,negative,49,no,yes
+15989,female,60+,north,beauty,online,amazon,4,"amazing experience, highly recommend!",positive,42,yes,no
+15990,male,26-35,east,automobile,online,amazon,2,not worth the price.,negative,44,yes,yes
+15991,male,18-25,west,groceries,online,amazon,2,not worth the price.,negative,70,no,yes
+16034,other,18-25,central,sports,online,amazon,5,fast delivery and great packaging.,positive,53,no,no
+16069,female,46-60,central,automobile,online,amazon,1,not worth the price.,negative,60,no,yes
+16105,other,60+,north,fashion,online,amazon,1,customer service was unhelpful.,negative,70,no,yes
+16108,other,36-45,north,groceries,online,amazon,3,neutral about the quality.,neutral,1,yes,no
+16160,other,26-35,south,automobile,online,amazon,1,product stopped working after few days.,negative,5,yes,yes
+16170,male,46-60,south,sports,online,amazon,2,very disappointed with the quality.,negative,48,no,yes
+16202,male,46-60,south,automobile,online,amazon,1,not worth the price.,negative,71,no,yes
+16212,male,46-60,west,beauty,online,amazon,4,great value for money.,positive,10,yes,no
+16244,female,46-60,east,groceries,online,amazon,2,not worth the price.,negative,10,yes,yes
+16320,female,46-60,north,automobile,online,amazon,4,very satisfied with the quality.,positive,27,yes,no
+16340,female,26-35,central,electronics,online,amazon,2,not worth the price.,negative,71,no,yes
+16341,other,36-45,south,sports,online,amazon,1,customer service was unhelpful.,negative,37,yes,yes
+16382,other,60+,east,automobile,online,amazon,2,very disappointed with the quality.,negative,34,yes,yes
+16386,male,26-35,north,home & kitchen,online,amazon,2,late delivery and poor packaging.,negative,69,no,yes
+16417,other,26-35,central,home & kitchen,online,amazon,1,late delivery and poor packaging.,negative,13,yes,yes
+16430,male,46-60,east,books,online,amazon,3,average experience overall.,neutral,7,yes,no
+16435,male,60+,west,sports,online,amazon,1,not worth the price.,negative,57,no,yes
+16477,female,26-35,east,books,online,amazon,5,fast delivery and great packaging.,positive,8,yes,no
+16498,female,46-60,north,travel,online,amazon,4,excellent product! exceeded expectations.,positive,19,yes,no
+16525,other,18-25,east,travel,online,amazon,2,customer service was unhelpful.,negative,71,no,yes
+16534,other,60+,north,sports,online,amazon,4,fast delivery and great packaging.,positive,4,yes,no
+16565,female,18-25,west,beauty,online,amazon,4,fast delivery and great packaging.,positive,64,no,no
+16582,other,46-60,east,travel,online,amazon,4,very satisfied with the quality.,positive,61,no,no
+16594,other,46-60,north,fashion,online,amazon,5,excellent product! exceeded expectations.,positive,63,no,no
+16609,other,18-25,east,travel,online,amazon,4,very satisfied with the quality.,positive,71,no,no
+16620,other,18-25,central,electronics,online,amazon,4,fast delivery and great packaging.,positive,9,yes,no
+16643,male,36-45,west,travel,online,amazon,4,excellent product! exceeded expectations.,positive,67,no,no
+16655,male,60+,west,groceries,online,amazon,5,fast delivery and great packaging.,positive,27,yes,no
+16681,female,18-25,east,fashion,online,amazon,5,great value for money.,positive,50,no,no
+16704,other,60+,central,books,online,amazon,1,product stopped working after few days.,negative,47,yes,yes
+16715,other,26-35,south,automobile,online,amazon,5,very satisfied with the quality.,positive,63,no,no
+16717,female,46-60,north,books,online,amazon,3,works fine but could be better.,neutral,11,yes,no
+16730,female,18-25,south,sports,online,amazon,4,great value for money.,positive,57,no,no
+16762,female,36-45,north,groceries,online,amazon,2,customer service was unhelpful.,negative,55,no,yes
+16770,male,46-60,east,books,online,amazon,4,"amazing experience, highly recommend!",positive,55,no,no
+16844,other,18-25,south,fashion,online,amazon,1,customer service was unhelpful.,negative,3,yes,yes
+16852,female,60+,central,travel,online,amazon,5,fast delivery and great packaging.,positive,54,no,no
+16863,male,36-45,north,books,online,amazon,3,average experience overall.,neutral,60,no,no
+16871,female,26-35,central,electronics,online,amazon,2,customer service was unhelpful.,negative,13,yes,yes
+16894,female,36-45,east,groceries,online,amazon,3,"product is okay, nothing special.",neutral,11,yes,no
+16935,male,60+,south,beauty,online,amazon,3,works fine but could be better.,neutral,13,yes,no
+16937,other,36-45,west,fashion,online,amazon,5,fast delivery and great packaging.,positive,21,yes,no
+16982,male,26-35,south,automobile,online,amazon,4,very satisfied with the quality.,positive,56,no,no
+17002,male,26-35,east,automobile,online,amazon,5,great value for money.,positive,8,yes,no
+17024,female,60+,north,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,24,yes,no
+17041,female,36-45,west,fashion,online,amazon,4,great value for money.,positive,52,no,no
+17042,female,46-60,south,electronics,online,amazon,4,"amazing experience, highly recommend!",positive,62,no,no
+17050,male,36-45,north,books,online,amazon,1,product stopped working after few days.,negative,31,yes,yes
+17059,other,46-60,north,groceries,online,amazon,5,very satisfied with the quality.,positive,10,yes,no
+17126,other,36-45,west,books,online,amazon,2,late delivery and poor packaging.,negative,30,yes,yes
+17162,female,36-45,west,groceries,online,amazon,3,"product is okay, nothing special.",neutral,1,yes,no
+17175,male,60+,west,electronics,online,amazon,1,customer service was unhelpful.,negative,57,no,yes
+17181,male,46-60,south,beauty,online,amazon,2,customer service was unhelpful.,negative,43,yes,yes
+17186,other,36-45,north,groceries,online,amazon,2,customer service was unhelpful.,negative,53,no,yes
+17192,other,18-25,west,groceries,online,amazon,2,not worth the price.,negative,8,yes,yes
+17228,male,46-60,central,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,50,no,no
+17282,male,36-45,south,home & kitchen,online,amazon,4,great value for money.,positive,29,yes,no
+17331,female,18-25,south,automobile,online,amazon,2,late delivery and poor packaging.,negative,40,yes,yes
+17427,male,18-25,east,groceries,online,amazon,5,very satisfied with the quality.,positive,35,yes,no
+17436,male,46-60,central,home & kitchen,online,amazon,4,excellent product! exceeded expectations.,positive,66,no,no
+17499,other,26-35,east,travel,online,amazon,2,very disappointed with the quality.,negative,64,no,yes
+17512,male,18-25,west,automobile,online,amazon,5,fast delivery and great packaging.,positive,64,no,no
+17566,other,60+,north,travel,online,amazon,3,neutral about the quality.,neutral,53,no,no
+17583,male,18-25,north,home & kitchen,online,amazon,4,fast delivery and great packaging.,positive,1,yes,no
+17586,male,18-25,central,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,11,yes,no
+17590,female,46-60,south,fashion,online,amazon,4,fast delivery and great packaging.,positive,52,no,no
+17614,male,60+,south,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,42,yes,no
+17632,male,46-60,west,groceries,online,amazon,4,very satisfied with the quality.,positive,11,yes,no
+17694,other,46-60,south,travel,online,amazon,5,"amazing experience, highly recommend!",positive,27,yes,no
+17719,male,18-25,south,electronics,online,amazon,4,fast delivery and great packaging.,positive,19,yes,no
+17725,other,26-35,north,travel,online,amazon,2,product stopped working after few days.,negative,57,no,yes
+17761,male,60+,south,groceries,online,amazon,3,neutral about the quality.,neutral,40,yes,no
+17813,other,60+,north,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,33,yes,no
+17832,male,36-45,west,sports,online,amazon,5,excellent product! exceeded expectations.,positive,26,yes,no
+17864,male,60+,east,beauty,online,amazon,3,works fine but could be better.,neutral,11,yes,no
+17871,female,26-35,central,travel,online,amazon,5,great value for money.,positive,12,yes,no
+17878,female,26-35,east,books,online,amazon,3,"delivery was fine, product is decent.",neutral,3,yes,no
+17956,other,18-25,west,beauty,online,amazon,2,late delivery and poor packaging.,negative,68,no,yes
+17996,female,26-35,central,home & kitchen,online,amazon,1,customer service was unhelpful.,negative,25,yes,yes
+18001,other,18-25,east,beauty,online,amazon,5,excellent product! exceeded expectations.,positive,18,yes,no
+18013,other,36-45,central,electronics,online,amazon,3,works fine but could be better.,neutral,34,yes,no
+18039,other,18-25,east,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,37,yes,no
+18047,female,60+,south,groceries,online,amazon,1,customer service was unhelpful.,negative,25,yes,yes
+18052,female,46-60,south,beauty,online,amazon,1,late delivery and poor packaging.,negative,70,no,yes
+18075,male,18-25,south,home & kitchen,online,amazon,3,"delivery was fine, product is decent.",neutral,11,yes,no
+18156,other,46-60,south,books,online,amazon,1,product stopped working after few days.,negative,28,yes,yes
+18175,female,46-60,south,sports,online,amazon,4,"amazing experience, highly recommend!",positive,70,no,no
+18179,other,60+,south,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,8,yes,no
+18185,female,60+,south,fashion,online,amazon,5,fast delivery and great packaging.,positive,46,yes,no
+18197,male,36-45,west,electronics,online,amazon,2,customer service was unhelpful.,negative,65,no,yes
+18213,female,26-35,north,automobile,online,amazon,2,product stopped working after few days.,negative,62,no,yes
+18259,male,36-45,west,travel,online,amazon,1,very disappointed with the quality.,negative,60,no,yes
+18329,female,46-60,west,electronics,online,amazon,2,product stopped working after few days.,negative,68,no,yes
+18367,other,26-35,east,home & kitchen,online,amazon,4,very satisfied with the quality.,positive,14,yes,no
+18381,female,46-60,south,groceries,online,amazon,5,very satisfied with the quality.,positive,47,yes,no
+18389,other,26-35,central,travel,online,amazon,5,fast delivery and great packaging.,positive,51,no,no
+18394,female,26-35,south,automobile,online,amazon,2,not worth the price.,negative,15,yes,yes
+18402,male,18-25,north,travel,online,amazon,3,"product is okay, nothing special.",neutral,61,no,no
+18420,other,60+,south,travel,online,amazon,1,late delivery and poor packaging.,negative,70,no,yes
+18446,female,26-35,east,fashion,online,amazon,1,product stopped working after few days.,negative,47,yes,yes
+18457,other,60+,east,automobile,online,amazon,3,neutral about the quality.,neutral,36,yes,no
+18470,male,60+,south,beauty,online,amazon,3,neutral about the quality.,neutral,1,yes,no
+18478,other,18-25,west,sports,online,amazon,2,product stopped working after few days.,negative,23,yes,yes
+18491,male,18-25,central,books,online,amazon,2,very disappointed with the quality.,negative,48,no,yes
+18523,female,18-25,north,home & kitchen,online,amazon,1,very disappointed with the quality.,negative,5,yes,yes
+18525,other,36-45,south,travel,online,amazon,4,excellent product! exceeded expectations.,positive,50,no,no
+18531,male,26-35,south,electronics,online,amazon,5,"amazing experience, highly recommend!",positive,43,yes,no
+18532,other,36-45,west,electronics,online,amazon,1,customer service was unhelpful.,negative,7,yes,yes
+18564,other,36-45,south,fashion,online,amazon,1,product stopped working after few days.,negative,38,yes,yes
+18570,female,60+,east,automobile,online,amazon,1,product stopped working after few days.,negative,19,yes,yes
+18573,female,60+,east,travel,online,amazon,5,very satisfied with the quality.,positive,61,no,no
+18578,female,60+,west,sports,online,amazon,2,customer service was unhelpful.,negative,57,no,yes
+18600,male,26-35,north,sports,online,amazon,2,very disappointed with the quality.,negative,36,yes,yes
+18619,other,46-60,east,travel,online,amazon,4,very satisfied with the quality.,positive,26,yes,no
+18646,male,18-25,south,fashion,online,amazon,1,customer service was unhelpful.,negative,23,yes,yes
+18649,other,60+,west,beauty,online,amazon,1,very disappointed with the quality.,negative,33,yes,yes
+18656,male,18-25,south,automobile,online,amazon,5,excellent product! exceeded expectations.,positive,61,no,no
+18715,male,46-60,south,travel,online,amazon,5,"amazing experience, highly recommend!",positive,27,yes,no
+18727,female,60+,east,automobile,online,amazon,3,"delivery was fine, product is decent.",neutral,12,yes,no
+18747,male,18-25,east,automobile,online,amazon,5,very satisfied with the quality.,positive,1,yes,no
+18766,female,46-60,north,books,online,amazon,2,customer service was unhelpful.,negative,63,no,yes
+18803,female,60+,south,beauty,online,amazon,1,late delivery and poor packaging.,negative,47,yes,yes
+18808,female,60+,central,groceries,online,amazon,5,fast delivery and great packaging.,positive,5,yes,no
+18856,female,26-35,east,home & kitchen,online,amazon,1,very disappointed with the quality.,negative,42,yes,yes
+18914,male,36-45,south,beauty,online,amazon,2,customer service was unhelpful.,negative,41,yes,yes
+18917,other,46-60,south,books,online,amazon,4,fast delivery and great packaging.,positive,60,no,no
+18947,other,26-35,central,travel,online,amazon,3,"product is okay, nothing special.",neutral,52,no,no
+18957,female,60+,west,sports,online,amazon,2,customer service was unhelpful.,negative,62,no,yes
+18994,male,26-35,north,automobile,online,amazon,5,great value for money.,positive,24,yes,no
+19020,male,60+,south,automobile,online,amazon,3,average experience overall.,neutral,54,no,no
+19022,female,36-45,central,books,online,amazon,5,fast delivery and great packaging.,positive,37,yes,no
+19036,female,26-35,west,groceries,online,amazon,2,not worth the price.,negative,24,yes,yes
+19070,other,36-45,central,groceries,online,amazon,2,customer service was unhelpful.,negative,1,yes,yes
+19071,other,60+,south,travel,online,amazon,3,"delivery was fine, product is decent.",neutral,57,no,no
+19117,male,60+,central,books,online,amazon,3,works fine but could be better.,neutral,17,yes,no
+19158,male,60+,south,sports,online,amazon,3,neutral about the quality.,neutral,34,yes,no
+19162,other,46-60,south,home & kitchen,online,amazon,1,not worth the price.,negative,17,yes,yes
+19165,other,26-35,east,fashion,online,amazon,1,very disappointed with the quality.,negative,61,no,yes
+19184,male,60+,central,books,online,amazon,5,excellent product! exceeded expectations.,positive,18,yes,no
+19188,female,36-45,west,automobile,online,amazon,4,very satisfied with the quality.,positive,29,yes,no
+19240,other,36-45,north,groceries,online,amazon,5,great value for money.,positive,5,yes,no
+19241,male,18-25,east,beauty,online,amazon,4,"amazing experience, highly recommend!",positive,12,yes,no
+19253,other,18-25,north,books,online,amazon,1,product stopped working after few days.,negative,3,yes,yes
+19262,other,60+,west,electronics,online,amazon,1,product stopped working after few days.,negative,17,yes,yes
+19379,male,60+,north,automobile,online,amazon,2,late delivery and poor packaging.,negative,24,yes,yes
+19392,female,60+,east,home & kitchen,online,amazon,4,great value for money.,positive,34,yes,no
+19404,male,60+,central,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,50,no,no
+19467,female,18-25,west,beauty,online,amazon,3,neutral about the quality.,neutral,2,yes,no
+19502,other,36-45,central,books,online,amazon,1,late delivery and poor packaging.,negative,60,no,yes
+19632,male,26-35,north,groceries,online,amazon,5,"amazing experience, highly recommend!",positive,60,no,no
+19641,other,18-25,south,automobile,online,amazon,2,product stopped working after few days.,negative,53,no,yes
+19642,other,60+,north,home & kitchen,online,amazon,5,very satisfied with the quality.,positive,68,no,no
+19681,female,46-60,central,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,20,yes,no
+19685,other,60+,south,home & kitchen,online,amazon,4,excellent product! exceeded expectations.,positive,66,no,no
+19686,male,18-25,west,travel,online,amazon,5,fast delivery and great packaging.,positive,2,yes,no
+19708,male,60+,south,beauty,online,amazon,2,late delivery and poor packaging.,negative,56,no,yes
+19733,female,26-35,central,automobile,online,amazon,2,product stopped working after few days.,negative,43,yes,yes
+19740,other,60+,south,home & kitchen,online,amazon,3,works fine but could be better.,neutral,38,yes,no
+19765,other,46-60,south,groceries,online,amazon,5,great value for money.,positive,48,no,no
+19767,female,36-45,west,groceries,online,amazon,2,late delivery and poor packaging.,negative,47,yes,yes
+19781,male,36-45,south,travel,online,amazon,2,customer service was unhelpful.,negative,15,yes,yes
+19806,other,46-60,north,fashion,online,amazon,2,product stopped working after few days.,negative,63,no,yes
+19833,female,46-60,north,automobile,online,amazon,3,works fine but could be better.,neutral,41,yes,no
+19865,female,26-35,central,fashion,online,amazon,3,"delivery was fine, product is decent.",neutral,45,yes,no
+19866,female,60+,north,automobile,online,amazon,2,customer service was unhelpful.,negative,34,yes,yes
+19868,male,46-60,west,automobile,online,amazon,4,"amazing experience, highly recommend!",positive,1,yes,no
+19892,male,26-35,west,sports,online,amazon,1,not worth the price.,negative,18,yes,yes
+19934,female,60+,central,books,online,amazon,4,"amazing experience, highly recommend!",positive,4,yes,no
+19949,female,60+,east,fashion,online,amazon,2,product stopped working after few days.,negative,39,yes,yes
+19988,male,46-60,south,groceries,online,amazon,2,customer service was unhelpful.,negative,7,yes,yes
+19998,female,46-60,south,groceries,online,amazon,1,customer service was unhelpful.,negative,18,yes,yes
+19999,female,46-60,south,fashion,online,amazon,3,works fine but could be better.,neutral,41,yes,no
+20012,male,46-60,central,automobile,online,amazon,2,not worth the price.,negative,55,no,yes
+20052,male,46-60,central,fashion,online,amazon,4,very satisfied with the quality.,positive,27,yes,no
+20066,other,46-60,west,home & kitchen,online,amazon,2,late delivery and poor packaging.,negative,35,yes,yes
+20102,male,46-60,north,home & kitchen,online,amazon,5,"amazing experience, highly recommend!",positive,70,no,no
+20112,male,26-35,east,electronics,online,amazon,4,very satisfied with the quality.,positive,8,yes,no
+20126,other,36-45,north,fashion,online,amazon,2,product stopped working after few days.,negative,13,yes,yes
+20146,male,18-25,west,home & kitchen,online,amazon,4,excellent product! exceeded expectations.,positive,29,yes,no
+20175,other,60+,west,electronics,online,amazon,1,very disappointed with the quality.,negative,62,no,yes
+20269,male,18-25,central,books,online,amazon,1,customer service was unhelpful.,negative,59,no,yes
+20279,other,26-35,east,beauty,online,amazon,5,great value for money.,positive,16,yes,no
+20282,male,60+,south,electronics,online,amazon,3,average experience overall.,neutral,11,yes,no
+20285,other,26-35,east,sports,online,amazon,5,fast delivery and great packaging.,positive,37,yes,no
+20337,other,60+,east,fashion,online,amazon,3,works fine but could be better.,neutral,60,no,no
+20357,female,26-35,north,automobile,online,amazon,4,fast delivery and great packaging.,positive,34,yes,no
+20364,female,36-45,central,sports,online,amazon,4,"amazing experience, highly recommend!",positive,20,yes,no
+20372,male,60+,west,travel,online,amazon,5,"amazing experience, highly recommend!",positive,7,yes,no
+20400,other,60+,west,automobile,online,amazon,1,product stopped working after few days.,negative,68,no,yes
+20442,other,26-35,west,automobile,online,amazon,3,works fine but could be better.,neutral,41,yes,no
+20458,male,26-35,central,travel,online,amazon,3,"product is okay, nothing special.",neutral,52,no,no
+20463,other,26-35,east,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,54,no,no
+20468,male,26-35,north,sports,online,amazon,3,"delivery was fine, product is decent.",neutral,19,yes,no
+20474,other,26-35,east,travel,online,amazon,2,late delivery and poor packaging.,negative,2,yes,yes
+20482,male,36-45,central,automobile,online,amazon,2,late delivery and poor packaging.,negative,32,yes,yes
+20495,other,46-60,central,books,online,amazon,3,"product is okay, nothing special.",neutral,44,yes,no
+20500,other,26-35,west,automobile,online,amazon,2,very disappointed with the quality.,negative,27,yes,yes
+20520,other,36-45,north,books,online,amazon,3,neutral about the quality.,neutral,66,no,no
+20534,female,60+,north,groceries,online,amazon,2,not worth the price.,negative,17,yes,yes
+20555,male,18-25,north,sports,online,amazon,5,very satisfied with the quality.,positive,37,yes,no
+20564,other,18-25,north,automobile,online,amazon,1,not worth the price.,negative,26,yes,yes
+20600,other,36-45,central,fashion,online,amazon,5,excellent product! exceeded expectations.,positive,62,no,no
+20612,female,26-35,west,fashion,online,amazon,2,late delivery and poor packaging.,negative,56,no,yes
+20666,female,18-25,north,travel,online,amazon,3,"product is okay, nothing special.",neutral,65,no,no
+20680,other,36-45,north,books,online,amazon,4,fast delivery and great packaging.,positive,9,yes,no
+20729,female,46-60,east,beauty,online,amazon,4,very satisfied with the quality.,positive,60,no,no
+20737,male,46-60,east,automobile,online,amazon,3,average experience overall.,neutral,19,yes,no
+20738,female,46-60,south,beauty,online,amazon,3,neutral about the quality.,neutral,63,no,no
+20745,female,18-25,west,books,online,amazon,4,"amazing experience, highly recommend!",positive,16,yes,no
+20758,female,60+,north,books,online,amazon,1,very disappointed with the quality.,negative,9,yes,yes
+20795,female,36-45,east,home & kitchen,online,amazon,3,"delivery was fine, product is decent.",neutral,33,yes,no
+20801,female,18-25,south,beauty,online,amazon,5,fast delivery and great packaging.,positive,41,yes,no
+20821,other,18-25,east,automobile,online,amazon,5,fast delivery and great packaging.,positive,32,yes,no
+20836,male,18-25,south,travel,online,amazon,2,product stopped working after few days.,negative,51,no,yes
+20881,male,60+,north,travel,online,amazon,1,not worth the price.,negative,11,yes,yes
+20883,female,36-45,central,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,23,yes,no
+20903,other,18-25,west,books,online,amazon,4,fast delivery and great packaging.,positive,65,no,no
+20914,female,46-60,east,fashion,online,amazon,4,excellent product! exceeded expectations.,positive,3,yes,no
+20942,male,18-25,east,beauty,online,amazon,3,"product is okay, nothing special.",neutral,2,yes,no
+20982,male,36-45,east,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,15,yes,no
+20990,other,46-60,north,fashion,online,amazon,4,great value for money.,positive,8,yes,no
+21023,female,18-25,east,home & kitchen,online,amazon,1,not worth the price.,negative,19,yes,yes
+21031,female,60+,east,travel,online,amazon,2,product stopped working after few days.,negative,4,yes,yes
+21032,male,36-45,east,automobile,online,amazon,2,late delivery and poor packaging.,negative,30,yes,yes
+21055,other,60+,south,groceries,online,amazon,2,very disappointed with the quality.,negative,34,yes,yes
+21081,female,46-60,east,groceries,online,amazon,3,works fine but could be better.,neutral,21,yes,no
+21106,other,46-60,central,electronics,online,amazon,1,product stopped working after few days.,negative,21,yes,yes
+21120,other,60+,central,beauty,online,amazon,4,great value for money.,positive,27,yes,no
+21122,female,26-35,east,automobile,online,amazon,2,customer service was unhelpful.,negative,66,no,yes
+21145,female,36-45,north,books,online,amazon,4,very satisfied with the quality.,positive,20,yes,no
+21148,female,26-35,south,sports,online,amazon,1,product stopped working after few days.,negative,29,yes,yes
+21188,female,26-35,north,beauty,online,amazon,5,very satisfied with the quality.,positive,44,yes,no
+21204,other,46-60,north,beauty,online,amazon,4,very satisfied with the quality.,positive,7,yes,no
+21250,female,46-60,north,automobile,online,amazon,3,average experience overall.,neutral,36,yes,no
+21269,male,36-45,south,beauty,online,amazon,4,fast delivery and great packaging.,positive,44,yes,no
+21279,other,46-60,east,fashion,online,amazon,4,"amazing experience, highly recommend!",positive,52,no,no
+21325,female,46-60,south,groceries,online,amazon,1,very disappointed with the quality.,negative,2,yes,yes
+21339,female,46-60,west,sports,online,amazon,1,customer service was unhelpful.,negative,37,yes,yes
+21413,female,36-45,central,travel,online,amazon,2,customer service was unhelpful.,negative,27,yes,yes
+21437,male,26-35,south,travel,online,amazon,2,customer service was unhelpful.,negative,7,yes,yes
+21443,female,60+,south,home & kitchen,online,amazon,2,customer service was unhelpful.,negative,51,no,yes
+21503,male,60+,west,travel,online,amazon,3,neutral about the quality.,neutral,6,yes,no
+21518,other,60+,east,electronics,online,amazon,1,customer service was unhelpful.,negative,15,yes,yes
+21553,other,26-35,west,books,online,amazon,5,excellent product! exceeded expectations.,positive,23,yes,no
+21561,other,18-25,south,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,36,yes,no
+21573,other,18-25,central,automobile,online,amazon,4,great value for money.,positive,3,yes,no
+21580,male,18-25,north,sports,online,amazon,1,very disappointed with the quality.,negative,41,yes,yes
+21586,female,46-60,east,sports,online,amazon,3,average experience overall.,neutral,62,no,no
+21598,other,36-45,north,books,online,amazon,1,late delivery and poor packaging.,negative,46,yes,yes
+21599,female,26-35,south,groceries,online,amazon,2,not worth the price.,negative,6,yes,yes
+21612,female,46-60,central,fashion,online,amazon,3,works fine but could be better.,neutral,26,yes,no
+21626,male,26-35,east,home & kitchen,online,amazon,2,very disappointed with the quality.,negative,70,no,yes
+21649,other,36-45,central,books,online,amazon,3,neutral about the quality.,neutral,21,yes,no
+21688,other,46-60,south,electronics,online,amazon,4,fast delivery and great packaging.,positive,31,yes,no
+21701,male,18-25,central,automobile,online,amazon,2,late delivery and poor packaging.,negative,57,no,yes
+21729,female,46-60,south,electronics,online,amazon,4,very satisfied with the quality.,positive,51,no,no
+21746,other,36-45,north,beauty,online,amazon,4,very satisfied with the quality.,positive,2,yes,no
+21758,female,26-35,central,beauty,online,amazon,2,late delivery and poor packaging.,negative,38,yes,yes
+21786,other,46-60,east,fashion,online,amazon,1,very disappointed with the quality.,negative,42,yes,yes
+21796,other,46-60,central,books,online,amazon,2,late delivery and poor packaging.,negative,46,yes,yes
+21802,male,26-35,north,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,29,yes,no
+21818,other,46-60,central,electronics,online,amazon,2,not worth the price.,negative,19,yes,yes
+21826,female,46-60,east,groceries,online,amazon,3,works fine but could be better.,neutral,64,no,no
+21836,female,36-45,west,automobile,online,amazon,3,neutral about the quality.,neutral,11,yes,no
+21875,female,26-35,south,electronics,online,amazon,3,"product is okay, nothing special.",neutral,69,no,no
+21876,female,26-35,west,groceries,online,amazon,3,works fine but could be better.,neutral,23,yes,no
+21898,female,46-60,south,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,69,no,no
+21911,other,18-25,central,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,1,yes,no
+21920,other,60+,west,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,66,no,no
+21996,other,26-35,north,sports,online,amazon,5,great value for money.,positive,6,yes,no
+22005,other,18-25,south,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,17,yes,no
+22033,other,46-60,north,travel,online,amazon,5,fast delivery and great packaging.,positive,22,yes,no
+22037,male,26-35,south,travel,online,amazon,3,works fine but could be better.,neutral,9,yes,no
+22050,male,60+,south,books,online,amazon,2,late delivery and poor packaging.,negative,14,yes,yes
+22057,female,26-35,west,groceries,online,amazon,5,very satisfied with the quality.,positive,48,no,no
+22072,other,46-60,west,books,online,amazon,5,"amazing experience, highly recommend!",positive,44,yes,no
+22077,male,60+,south,fashion,online,amazon,4,"amazing experience, highly recommend!",positive,67,no,no
+22101,other,36-45,west,fashion,online,amazon,1,product stopped working after few days.,negative,16,yes,yes
+22138,female,18-25,central,groceries,online,amazon,4,very satisfied with the quality.,positive,11,yes,no
+22197,female,18-25,west,books,online,amazon,4,fast delivery and great packaging.,positive,28,yes,no
+22221,male,36-45,north,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,35,yes,no
+22308,other,46-60,north,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,46,yes,no
+22326,male,46-60,central,travel,online,amazon,1,customer service was unhelpful.,negative,50,no,yes
+22341,female,46-60,south,home & kitchen,online,amazon,4,very satisfied with the quality.,positive,59,no,no
+22357,male,26-35,north,groceries,online,amazon,1,late delivery and poor packaging.,negative,68,no,yes
+22365,female,46-60,west,travel,online,amazon,3,"delivery was fine, product is decent.",neutral,6,yes,no
+22417,other,36-45,south,groceries,online,amazon,5,great value for money.,positive,25,yes,no
+22439,other,46-60,north,home & kitchen,online,amazon,2,product stopped working after few days.,negative,3,yes,yes
+22457,male,60+,central,electronics,online,amazon,4,great value for money.,positive,44,yes,no
+22467,other,18-25,south,books,online,amazon,3,works fine but could be better.,neutral,51,no,no
+22486,female,36-45,north,books,online,amazon,3,works fine but could be better.,neutral,49,no,no
+22539,female,36-45,east,home & kitchen,online,amazon,5,fast delivery and great packaging.,positive,59,no,no
+22572,male,46-60,south,books,online,amazon,3,works fine but could be better.,neutral,13,yes,no
+22578,female,18-25,east,sports,online,amazon,3,works fine but could be better.,neutral,64,no,no
+22632,male,18-25,west,fashion,online,amazon,5,very satisfied with the quality.,positive,20,yes,no
+22665,female,60+,south,beauty,online,amazon,2,very disappointed with the quality.,negative,44,yes,yes
+22684,male,36-45,west,travel,online,amazon,2,late delivery and poor packaging.,negative,45,yes,yes
+22717,male,36-45,north,groceries,online,amazon,4,very satisfied with the quality.,positive,28,yes,no
+22722,other,18-25,west,automobile,online,amazon,5,very satisfied with the quality.,positive,20,yes,no
+22736,other,18-25,west,electronics,online,amazon,1,customer service was unhelpful.,negative,14,yes,yes
+22753,male,26-35,north,beauty,online,amazon,2,customer service was unhelpful.,negative,11,yes,yes
+22769,male,46-60,west,books,online,amazon,4,fast delivery and great packaging.,positive,65,no,no
+22781,other,18-25,north,groceries,online,amazon,4,very satisfied with the quality.,positive,7,yes,no
+22785,other,26-35,north,home & kitchen,online,amazon,3,neutral about the quality.,neutral,41,yes,no
+22818,female,26-35,central,electronics,online,amazon,4,very satisfied with the quality.,positive,26,yes,no
+22829,male,36-45,north,fashion,online,amazon,2,customer service was unhelpful.,negative,9,yes,yes
+22834,other,26-35,west,books,online,amazon,5,excellent product! exceeded expectations.,positive,57,no,no
+22863,male,18-25,east,electronics,online,amazon,5,great value for money.,positive,25,yes,no
+22876,male,26-35,north,beauty,online,amazon,3,neutral about the quality.,neutral,30,yes,no
+22881,male,26-35,north,books,online,amazon,3,"product is okay, nothing special.",neutral,3,yes,no
+22896,male,46-60,west,home & kitchen,online,amazon,1,late delivery and poor packaging.,negative,21,yes,yes
+22924,female,36-45,south,books,online,amazon,4,excellent product! exceeded expectations.,positive,59,no,no
+22959,other,26-35,north,sports,online,amazon,2,product stopped working after few days.,negative,63,no,yes
+22986,male,60+,south,sports,online,amazon,3,average experience overall.,neutral,42,yes,no
+22999,female,36-45,north,travel,online,amazon,5,fast delivery and great packaging.,positive,1,yes,no
+23006,female,18-25,north,beauty,online,amazon,4,great value for money.,positive,40,yes,no
+23007,other,36-45,east,travel,online,amazon,5,great value for money.,positive,4,yes,no
+23016,male,60+,south,automobile,online,amazon,3,average experience overall.,neutral,63,no,no
+23056,other,36-45,south,sports,online,amazon,3,average experience overall.,neutral,41,yes,no
+23066,male,46-60,west,travel,online,amazon,3,neutral about the quality.,neutral,5,yes,no
+23068,other,36-45,north,automobile,online,amazon,4,"amazing experience, highly recommend!",positive,9,yes,no
+23090,female,60+,east,fashion,online,amazon,1,customer service was unhelpful.,negative,23,yes,yes
+23097,female,26-35,north,groceries,online,amazon,2,customer service was unhelpful.,negative,3,yes,yes
+23111,female,26-35,north,home & kitchen,online,amazon,4,very satisfied with the quality.,positive,36,yes,no
+23133,other,18-25,south,books,online,amazon,2,not worth the price.,negative,1,yes,yes
+23139,other,60+,east,travel,online,amazon,2,very disappointed with the quality.,negative,36,yes,yes
+23176,male,46-60,south,home & kitchen,online,amazon,5,fast delivery and great packaging.,positive,9,yes,no
+23188,other,36-45,east,groceries,online,amazon,5,excellent product! exceeded expectations.,positive,59,no,no
+23264,female,18-25,east,groceries,online,amazon,2,late delivery and poor packaging.,negative,2,yes,yes
+23266,male,60+,central,home & kitchen,online,amazon,5,"amazing experience, highly recommend!",positive,56,no,no
+23277,male,60+,central,beauty,online,amazon,4,very satisfied with the quality.,positive,3,yes,no
+23279,male,60+,east,beauty,online,amazon,2,not worth the price.,negative,8,yes,yes
+23351,female,26-35,west,groceries,online,amazon,2,product stopped working after few days.,negative,57,no,yes
+23379,female,60+,central,electronics,online,amazon,4,fast delivery and great packaging.,positive,40,yes,no
+23435,female,26-35,north,groceries,online,amazon,2,not worth the price.,negative,58,no,yes
+23445,female,36-45,north,electronics,online,amazon,4,excellent product! exceeded expectations.,positive,25,yes,no
+23447,male,60+,west,home & kitchen,online,amazon,5,"amazing experience, highly recommend!",positive,10,yes,no
+23449,female,26-35,central,fashion,online,amazon,2,not worth the price.,negative,11,yes,yes
+23456,other,36-45,central,travel,online,amazon,2,very disappointed with the quality.,negative,23,yes,yes
+23489,other,46-60,east,groceries,online,amazon,2,late delivery and poor packaging.,negative,69,no,yes
+23572,male,36-45,south,automobile,online,amazon,4,"amazing experience, highly recommend!",positive,54,no,no
+23642,other,26-35,east,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,18,yes,no
+23665,other,18-25,south,travel,online,amazon,2,customer service was unhelpful.,negative,13,yes,yes
+23680,male,36-45,north,beauty,online,amazon,3,neutral about the quality.,neutral,66,no,no
+23681,female,36-45,east,fashion,online,amazon,3,"product is okay, nothing special.",neutral,31,yes,no
+23701,other,46-60,north,groceries,online,amazon,3,works fine but could be better.,neutral,17,yes,no
+23722,other,46-60,north,beauty,online,amazon,5,"amazing experience, highly recommend!",positive,16,yes,no
+23725,male,26-35,south,sports,online,amazon,4,"amazing experience, highly recommend!",positive,27,yes,no
+23728,other,18-25,north,beauty,online,amazon,1,late delivery and poor packaging.,negative,14,yes,yes
+23764,other,18-25,central,sports,online,amazon,3,"product is okay, nothing special.",neutral,37,yes,no
+23776,male,46-60,north,travel,online,amazon,5,great value for money.,positive,17,yes,no
+23791,other,26-35,north,fashion,online,amazon,5,very satisfied with the quality.,positive,69,no,no
+23802,male,60+,west,travel,online,amazon,5,"amazing experience, highly recommend!",positive,55,no,no
+23803,other,60+,north,home & kitchen,online,amazon,2,late delivery and poor packaging.,negative,48,no,yes
+23805,female,18-25,central,beauty,online,amazon,2,customer service was unhelpful.,negative,10,yes,yes
+23810,male,26-35,north,books,online,amazon,3,average experience overall.,neutral,44,yes,no
+23850,male,26-35,east,travel,online,amazon,5,fast delivery and great packaging.,positive,31,yes,no
+23870,other,18-25,central,beauty,online,amazon,2,customer service was unhelpful.,negative,28,yes,yes
+23873,male,46-60,central,beauty,online,amazon,1,very disappointed with the quality.,negative,3,yes,yes
+23893,female,26-35,north,fashion,online,amazon,1,very disappointed with the quality.,negative,63,no,yes
+23919,female,60+,east,groceries,online,amazon,2,very disappointed with the quality.,negative,19,yes,yes
+23930,male,18-25,east,travel,online,amazon,3,average experience overall.,neutral,43,yes,no
+23948,male,36-45,central,automobile,online,amazon,5,very satisfied with the quality.,positive,35,yes,no
+23951,other,26-35,central,fashion,online,amazon,4,fast delivery and great packaging.,positive,44,yes,no
+23969,female,18-25,west,sports,online,amazon,5,excellent product! exceeded expectations.,positive,9,yes,no
+24009,female,36-45,east,travel,online,amazon,2,very disappointed with the quality.,negative,52,no,yes
+24016,other,18-25,east,electronics,online,amazon,3,"product is okay, nothing special.",neutral,43,yes,no
+24020,female,36-45,east,home & kitchen,online,amazon,5,excellent product! exceeded expectations.,positive,51,no,no
+24084,other,36-45,south,beauty,online,amazon,4,fast delivery and great packaging.,positive,67,no,no
+24142,other,46-60,west,sports,online,amazon,4,great value for money.,positive,4,yes,no
+24211,other,36-45,south,groceries,online,amazon,3,"delivery was fine, product is decent.",neutral,60,no,no
+24260,other,18-25,south,electronics,online,amazon,5,very satisfied with the quality.,positive,10,yes,no
+24270,other,26-35,north,groceries,online,amazon,5,fast delivery and great packaging.,positive,15,yes,no
+24273,other,18-25,south,groceries,online,amazon,5,great value for money.,positive,8,yes,no
+24333,male,60+,east,home & kitchen,online,amazon,5,excellent product! exceeded expectations.,positive,15,yes,no
+24359,female,60+,west,fashion,online,amazon,2,not worth the price.,negative,28,yes,yes
+24368,female,46-60,south,beauty,online,amazon,1,not worth the price.,negative,1,yes,yes
+24389,female,36-45,south,books,online,amazon,5,great value for money.,positive,41,yes,no
+24435,female,36-45,west,beauty,online,amazon,5,great value for money.,positive,14,yes,no
+24442,other,46-60,south,electronics,online,amazon,2,very disappointed with the quality.,negative,11,yes,yes
+24445,male,18-25,west,fashion,online,amazon,3,works fine but could be better.,neutral,48,no,no
+24446,other,26-35,west,groceries,online,amazon,2,product stopped working after few days.,negative,4,yes,yes
+24448,other,36-45,east,books,online,amazon,1,late delivery and poor packaging.,negative,48,no,yes
+24457,female,60+,central,fashion,online,amazon,5,"amazing experience, highly recommend!",positive,57,no,no
+24495,female,46-60,north,beauty,online,amazon,2,late delivery and poor packaging.,negative,16,yes,yes
+24499,female,60+,east,electronics,online,amazon,1,not worth the price.,negative,17,yes,yes
+24525,female,60+,south,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,67,no,no
+24541,other,36-45,west,automobile,online,amazon,4,excellent product! exceeded expectations.,positive,32,yes,no
+24542,other,60+,north,beauty,online,amazon,4,great value for money.,positive,48,no,no
+24543,female,18-25,north,electronics,online,amazon,5,great value for money.,positive,18,yes,no
+24576,other,18-25,central,groceries,online,amazon,4,"amazing experience, highly recommend!",positive,21,yes,no
+24605,other,26-35,north,sports,online,amazon,3,average experience overall.,neutral,16,yes,no
+24647,other,26-35,north,groceries,online,amazon,4,great value for money.,positive,29,yes,no
+24652,male,36-45,south,automobile,online,amazon,1,customer service was unhelpful.,negative,29,yes,yes
+24658,male,18-25,east,automobile,online,amazon,2,late delivery and poor packaging.,negative,49,no,yes
+24688,other,36-45,east,books,online,amazon,5,fast delivery and great packaging.,positive,15,yes,no
+24697,female,36-45,south,travel,online,amazon,3,neutral about the quality.,neutral,53,no,no
+24701,other,18-25,west,automobile,online,amazon,5,"amazing experience, highly recommend!",positive,60,no,no
+24720,other,26-35,east,travel,online,amazon,5,very satisfied with the quality.,positive,34,yes,no
+24749,female,26-35,north,fashion,online,amazon,5,excellent product! exceeded expectations.,positive,29,yes,no
+24755,female,26-35,east,electronics,online,amazon,2,not worth the price.,negative,39,yes,yes
+24776,female,60+,east,fashion,online,amazon,5,very satisfied with the quality.,positive,63,no,no
+24829,male,18-25,north,fashion,online,amazon,2,late delivery and poor packaging.,negative,40,yes,yes
+24853,other,18-25,west,home & kitchen,online,amazon,4,"amazing experience, highly recommend!",positive,37,yes,no
+24857,male,18-25,north,travel,online,amazon,1,product stopped working after few days.,negative,4,yes,yes
+24859,female,26-35,east,travel,online,amazon,1,late delivery and poor packaging.,negative,4,yes,yes
+24860,female,18-25,east,fashion,online,amazon,3,"product is okay, nothing special.",neutral,24,yes,no
+24872,female,36-45,east,automobile,online,amazon,5,fast delivery and great packaging.,positive,24,yes,no
+24878,female,46-60,south,books,online,amazon,2,customer service was unhelpful.,negative,10,yes,yes
+24887,other,26-35,south,sports,online,amazon,5,very satisfied with the quality.,positive,61,no,no
+24890,female,26-35,west,sports,online,amazon,4,excellent product! exceeded expectations.,positive,48,no,no
+24893,female,46-60,north,travel,online,amazon,3,works fine but could be better.,neutral,43,yes,no
+24940,male,26-35,south,beauty,online,amazon,3,"delivery was fine, product is decent.",neutral,14,yes,no
+24992,other,18-25,central,groceries,online,amazon,4,excellent product! exceeded expectations.,positive,19,yes,no
+24993,other,60+,central,books,online,amazon,3,great cooler excellent air flow and for this price its so amazing and unbelievablejust love it,positive,19,yes,no
+24994,male,36-45,central,fashion,online,amazon,2,best budget 2 fit cooler nice cooling,positive,9,yes,yes
+24995,other,60+,west,sports,online,amazon,4,the quality is good but the power of air is decent,positive,24,yes,no
+24996,other,46-60,south,beauty,online,amazon,3,very bad product its a only a fan,negative,47,yes,no
+24997,other,36-45,north,travel,online,amazon,2,ok ok product,neutral,47,yes,no
+24998,other,60+,central,sports,online,amazon,5,the cooler is really fantastic and provides good air flow highly recommended,positive,22,yes,yes
+24999,male,60+,central,automobile,online,amazon,3,very good product,positive,49,no,yes
+25000,female,26-35,west,beauty,online,amazon,1,very nice,positive,42,yes,no
+25001,female,36-45,south,beauty,online,amazon,5,very bad cooler,negative,44,yes,yes
+25002,female,18-25,south,beauty,online,amazon,2,very good,positive,70,no,yes
+25003,other,46-60,west,electronics,online,amazon,1,beautiful product good material and perfectly working,positive,53,no,no
+25004,other,26-35,central,beauty,online,amazon,1,awesome,positive,60,no,yes
+25005,male,18-25,north,travel,online,amazon,5,good,positive,70,no,yes
+25006,male,46-60,central,groceries,online,amazon,1,wonderful product must buy,positive,1,yes,no
+25007,female,18-25,north,home & kitchen,online,amazon,3,nice air cooler smart cool breeze producer,positive,5,yes,yes
+25008,other,60+,west,groceries,online,amazon,2,awsm,positive,48,no,yes
+25009,other,18-25,central,travel,online,amazon,2,nice product,positive,71,no,yes
+25010,male,18-25,central,automobile,online,amazon,1,great cooler,positive,10,yes,no
+25011,female,36-45,north,home & kitchen,online,amazon,5,nice product,positive,10,yes,yes
+25012,male,26-35,west,sports,online,amazon,3,good,positive,27,yes,no
+25013,female,60+,west,sports,online,amazon,4,very nice product,positive,71,no,yes
+25014,male,36-45,north,groceries,online,amazon,3,good product,positive,37,yes,yes
+25015,male,18-25,west,automobile,online,amazon,1,nice product with the reasonable price,positive,34,yes,yes
+25016,male,26-35,north,automobile,online,amazon,4,i like it,positive,69,no,yes
+25017,female,18-25,west,electronics,online,amazon,5,very goodd,positive,13,yes,yes
+25018,female,36-45,north,electronics,online,amazon,1,good product,positive,7,yes,no
+25019,female,60+,south,beauty,online,amazon,1,good product kawaleti,positive,57,no,yes
+25020,male,60+,south,books,online,amazon,3,very good cooler amazing beautiful designs affordable price,positive,8,yes,no
+25021,female,60+,south,books,online,amazon,4,using since 3months great experience,positive,19,yes,no
+25022,female,60+,east,sports,online,amazon,1,very good performance and nice look,positive,71,no,yes
+25023,male,26-35,south,groceries,online,amazon,5,product is good having strong thrust of air flow must buy,positive,4,yes,no
+25024,other,46-60,north,fashion,online,amazon,3,very good,positive,64,no,no
+25025,other,36-45,central,books,online,amazon,4,bad quality,negative,61,no,no
+25026,female,36-45,south,beauty,online,amazon,2,very nice product,positive,63,no,no
+25027,other,46-60,central,groceries,online,amazon,5,very soundless product and low price other company,positive,71,no,no
+25028,other,60+,central,home & kitchen,online,amazon,4,nice,positive,9,yes,no
+25029,other,60+,north,groceries,online,amazon,1,the best poduct that i bought from flifkart it works superb like ac and price is also reasonable only rs 8698,positive,67,no,no
+25030,male,60+,east,travel,online,amazon,1,cooler is big and wide maharaja brand trust y every thing is good about cooler create less noise only thing is that its motor is not powerful even in high speed rest all things are good but yes for one middle size room it is ok,positive,27,yes,no
+25031,male,36-45,central,sports,online,amazon,1,it is one of the best air coolers at reasonable price have ever seen but the ventilation of the room is must for proper cooling but the size is quite big it will i hope create a space problem during off seasons the air supply is very good and its one of the essential part of the air cooler with the wool wood pads which helps to make super cooling afterall thank you maharaja company to make such a product in affordable and reasonable price,positive,50,no,no
+25032,male,36-45,north,automobile,online,amazon,4,awesome air cooleri was looking for a cooler under this range and this has fulfilled my requirement this has the following features1 great air through the capacity of 5000 m3hr 2 comes with a large 65litre tank which can run overnight with ease3 great built that is a shockproof and reliable material4 you have to stop this beast at night because it has that massive cooling capabilityone small concern is mine and it is for sure that it is not a dealbreaker that it produces s,positive,47,yes,yes
+25033,male,60+,south,books,online,amazon,2,purchased after a lot of discussions and reviews i would say this the best which gives you the comfort needed best to for with no 2nd thoughts nice cooling low noise hope this should be energy efficient and used for a long run,positive,63,no,no
+25034,other,60+,west,automobile,online,amazon,5,very nice cooler cooling is very good there is no noise i reviewed a lot then only i purchased it if you want effective cooling you have to set it up at a window where there is cross ventilation without cross ventilation it will make environment humid lookwise it is very nice and material is strong,positive,11,yes,no
+25035,other,46-60,north,electronics,online,amazon,2,feedback given after using one week the cooler is amazing its making the whole room cooling you should install the cooler near to your windows the delivery was on time as well the delivery boy also very supportive,positive,57,no,no
+25036,other,26-35,east,beauty,online,amazon,4,great deal 65 l quite big tank sufficient cooling for one medium size room 3 modes works well best in this range,positive,55,no,yes
+25037,female,60+,central,sports,online,amazon,1,i bought this cooler on heavy discount by flipkart cooler is build of good quality material it has a fast fan with powerfull motor pump air quality is excellent even for a big room a must buy value for money product,positive,55,no,no
+25038,male,46-60,south,electronics,online,amazon,3,the good things1 very well packed good amount of thermocols to protect from transport damages2 sturdy body3 relatively less noise as compared to bajaj cooler i had earlierwish this was betterfor many purposes it is necessary to open cooler body opening the body of cooler is not very intuitive common consumers may not even attempt for fear of damaging something 1 easy opening of side frames to change pads or clean the water inlets2 water balloon used to cut water supply au,positive,3,yes,yes
+25039,female,18-25,west,beauty,online,amazon,5,excellent producthappy with resultnice air flowosm cooling,positive,54,no,no
+25040,male,46-60,south,sports,online,amazon,3,cooler works fine and it is inverter friendly,positive,60,no,no
+25041,other,36-45,east,sports,online,amazon,2,small wire and moter capacity is very low fan speed was not good out flow vent hole is above the lower part of cooler its very difficult to change water,negative,13,yes,yes
+25042,female,60+,south,travel,online,amazon,1,perfect product for large size room,positive,11,yes,no
+25043,male,18-25,south,automobile,online,amazon,2,average cooling not much as expected by size and reviews of cooler cooling is sufficient maharaja whiteline should work on its cooling efficiency and reduce size by width can increase in height to maintain tank capacity,positive,13,yes,no
+25044,other,36-45,east,groceries,online,amazon,1,product was amazing cooling capacity awsum pls go for ahead a big thumbs up,positive,21,yes,no
+25045,female,36-45,east,electronics,online,amazon,5,good,positive,56,no,no
+25046,female,46-60,central,travel,online,amazon,3,received dalay 10 days cooler is ok when i was reveived switch damaged,negative,8,yes,no
+25047,female,60+,central,automobile,online,amazon,2,big oneworking good 2days of use hope will work for long run,positive,24,yes,no
+25048,male,60+,north,automobile,online,amazon,4,good product nice air flow and no noice,positive,52,no,no
+25049,female,36-45,east,books,online,amazon,5,in this price good cooler,positive,62,no,no
+25050,other,60+,central,sports,online,amazon,3,is good for many,positive,31,yes,yes
+25051,female,18-25,north,fashion,online,amazon,3,it is an awesome product light weight easy to use and having lot of features,positive,10,yes,no
+25052,other,26-35,east,travel,online,amazon,2,the product doesnt cool as rated by other customers the cooling is very slow very wrost product i recommend to not buy this item wastage of money,positive,30,yes,yes
+25053,female,26-35,south,fashion,online,amazon,2,looks like monster cooler it is working as awesome,positive,1,yes,no
+25054,female,18-25,south,fashion,online,amazon,2,very nice product thank you flipkart,positive,57,no,yes
+25055,female,26-35,south,sports,online,amazon,3,very good,positive,43,yes,yes
+25056,other,60+,central,electronics,online,amazon,3,good cooler it occupies more space looks very large but good for hall it covers all the places,positive,53,no,yes
+25057,other,26-35,west,books,online,amazon,4,very impressive coolerpros stylish energy efficient 165 watt very good air throw and cooling summersible pumpcons very bulky take more place than other no wheel lack of ice box,positive,8,yes,yes
+25058,female,60+,south,sports,online,amazon,3,best cooler i bought 6884,positive,50,no,no
+25059,male,46-60,south,home & kitchen,online,amazon,3,excellent cooler in this price rangepros1 air throw is very powerful even when u run it at slow speed setting 2 cooling and tank capacity3 ergonomics cons1 if you want to clean the cooler then opening the pads is very cumbersome process if you have placed it on some flat surface then also draining the old water is very difficult overall v good cooler apart from above cons and considering price,positive,29,yes,no
+25060,male,46-60,east,home & kitchen,online,amazon,2,cooler not provide cool air because 1year experience,negative,40,yes,yes
+25061,male,46-60,central,groceries,online,amazon,3,a good product in budget,positive,35,yes,no
+25062,male,36-45,south,electronics,online,amazon,1,packaging excellent value for money product,positive,66,no,no
+25063,male,36-45,east,books,online,amazon,4,delivered within 2 days working good,positive,64,no,yes
+25064,other,18-25,west,groceries,online,amazon,1,efficient for large roomspros1 low noise of fan2 inverter friendly3 cools large rooms fastly and easily4 it have aroma chamber in which you can add tablet of frangrance to counter smell of woodwool pads5 it have 2 section for air flow which means you can adjust it to get air for double decker cot equallycons1they should have provided stand of castor wheel for it to move2 it should have ice chamberwill update more about it in future,positive,64,no,no
+25065,male,36-45,east,sports,online,amazon,5,better than the steel cooler less noise and value for money,positive,53,no,no
+25066,male,46-60,south,fashion,online,amazon,4,dont buy maharaja whiteline coolers they have cheap aluminum motors that are good for at max 2 years repair cost of these motors is so high that u would want to sell rather than repair them,positive,1,yes,no
+25067,female,46-60,east,fashion,online,amazon,4,very nice product and delivery is satisfied,positive,11,yes,no
+25068,other,26-35,central,automobile,online,amazon,5,no quality product1 the wood wool has started falling out from the next day2 out of two led indicator has found not working on arrival3 the air swinger is already giving noise when moving which never used to be in my old cooler which i am using since 3 years4 the quality is no way machine to branded coolers5 anti bacterial tank has been bacterial now as there is no way to clean it so congested to maintain it cleanlyin my way think before you buyac has option to aut,negative,52,no,no
+25069,female,36-45,east,beauty,online,amazon,4,air throw is very good it makes room very cool in just half an hour full tank capacity is 65 litres which stays up to 5 hours it makes big living room colder not very much noisy,positive,42,yes,no
+25070,female,26-35,north,travel,online,amazon,5,on time delivery received exact productthank u flipkart,positive,11,yes,no
+25071,female,26-35,central,electronics,online,amazon,1,maharaja always no 1,positive,27,yes,no
+25072,female,46-60,central,travel,online,amazon,5,awesome product love this,positive,19,yes,no
+25073,male,46-60,west,automobile,online,amazon,4,poar quality plastic material is not good,negative,57,no,yes
+25074,male,46-60,south,travel,online,amazon,5,value for money,positive,40,yes,no
+25075,other,36-45,south,groceries,online,amazon,3,nice cooler,positive,33,yes,no
+25076,female,46-60,south,sports,online,amazon,1,fantastic product great cool,positive,26,yes,no
+25077,other,60+,east,electronics,online,amazon,2,dont buy just by seing the comments dont know how people review and rate the product cooling is ok but when it comes to fill the water you would need inlet pipe to fill the water we cannot open from the backsides to fill the watercleaning is highly impossible because there is no way you can open and clean worst design other small small branded companies provide all those facilities but this is worst product design totally unhappy with this product,negative,11,yes,no
+25078,female,26-35,south,sports,online,amazon,3,best at its price,positive,12,yes,no
+25079,male,18-25,central,fashion,online,amazon,2,this is my review after using this product for a week1air throw is good2produce less noise3good product at reasonable pricebut it never open from behindnot easy to cleanrefill the watercable is short,positive,3,yes,no
+25080,other,36-45,east,books,online,amazon,1,cooling fan problem,negative,68,no,yes
+25081,female,26-35,west,sports,online,amazon,4,after discount rs 7200 price is okquality is okdelivery as on time okmotor speed 1200 rpm okpump okcolour is ok look is also okwater storage is appx 65 ltd more than 3 large bucket is okstill giving 3 star because it is a large in size and in width not fit to my window not expectedwill give next rating after couple of month usagethanx flipkart,positive,25,yes,yes
+25082,other,36-45,central,sports,online,amazon,2,product is really worthy of price 8k however it occupied more space in room should one consider it before buy it worth for that money,positive,18,yes,no
+25083,female,26-35,east,home & kitchen,online,amazon,2,mind blowing very good for hall and for big wondow its really big in size quality is nice must buy,positive,34,yes,no
+25084,female,60+,east,fashion,online,amazon,4,good and sufficient size,positive,37,yes,no
+25085,male,46-60,east,electronics,online,amazon,2,awesome,positive,25,yes,yes
+25086,other,18-25,central,home & kitchen,online,amazon,4,good product,positive,70,no,yes
+25087,female,36-45,south,travel,online,amazon,5,best product,positive,11,yes,no
+25088,female,60+,central,books,online,amazon,5,very good,positive,28,yes,yes
+25089,male,60+,east,travel,online,amazon,1,good product delivery on time,positive,70,no,no
+25090,other,60+,west,home & kitchen,online,amazon,1,nice product deliver in time,positive,8,yes,no
+25091,other,26-35,south,travel,online,amazon,1,i honestly liked the productbest desert cooler at lowest price i got the deal of 6889nice brand good built quality with precision to eachgood switches and knobs to controltakes space as its hugevery silentnot high but good speed fan to cool upto upto 12 feetno ice tray but its not a mattergo for it,positive,46,yes,no
+25092,other,36-45,south,books,online,amazon,3,dont buy this product within 15 year wind blade was broken and noise issue wind blow very low its better to go other brand,negative,65,no,yes
+25093,other,60+,north,sports,online,amazon,2,awesome product,positive,62,no,yes
+25094,other,36-45,west,books,online,amazon,5,very good product,positive,60,no,yes
+25095,female,60+,east,home & kitchen,online,amazon,3,valu for money,positive,68,no,yes
+25096,female,60+,south,travel,online,amazon,3,nice to,positive,14,yes,no
+25097,other,60+,north,fashion,online,amazon,5,worst product fan speed very slowlike nothing,negative,47,yes,no
+25098,female,18-25,east,electronics,online,amazon,1,best product,positive,51,no,no
+25099,female,36-45,south,fashion,online,amazon,2,big size mostly like industrial cooler but within this price and my house is big it is perfect no wheels but can buy stand and it works fine if you have close home and less space go for other options,positive,15,yes,yes
+25100,male,36-45,east,sports,online,amazon,3,very bad service by flipkart customer care representative and jeeves agent too much bad performance no cooling just like a stand fan,negative,61,no,no
+25101,male,18-25,east,travel,online,amazon,2,oh really really very good i am so happy,positive,70,no,yes
+25102,female,46-60,central,groceries,online,amazon,4,low air and not cooling as axcpected,negative,47,yes,yes
+25103,female,18-25,central,sports,online,amazon,1,super cooling system,positive,36,yes,no
+25104,male,26-35,north,fashion,online,amazon,1,very nice working,positive,1,yes,no
+25105,female,26-35,central,beauty,online,amazon,4,excellent performance,positive,23,yes,yes
+25106,female,46-60,east,automobile,online,amazon,5,good,positive,48,no,yes
+25107,male,46-60,south,sports,online,amazon,3,wonderful product can go for it,positive,5,yes,yes
+25108,female,26-35,west,automobile,online,amazon,3,really desert cooler super cool,positive,50,no,no
+25109,other,60+,west,sports,online,amazon,5,very good product water flow must be slow from pump but its okay,positive,43,yes,no
+25110,female,46-60,south,travel,online,amazon,5,water inlet is not good,negative,7,yes,yes
+25111,female,36-45,central,groceries,online,amazon,4,awesome,positive,38,yes,yes
+25112,male,60+,west,beauty,online,amazon,1,owsum product,positive,19,yes,yes
+25113,other,36-45,south,home & kitchen,online,amazon,2,not so good,negative,61,no,no
+25114,male,18-25,central,fashion,online,amazon,5,cooler is really very good but use any cooler ventilation os a must without ventilation no cooler will work especially in rainy seasonproduct is original was delivered safely this review is after a week,positive,57,no,yes
+25115,other,60+,west,travel,online,amazon,2,ice product,positive,36,yes,yes
+25116,male,18-25,central,books,online,amazon,5,not working motors and very bad poor maharaja cooler,negative,26,yes,no
+25117,male,18-25,east,groceries,online,amazon,2,very good product worth buying,positive,23,yes,yes
+25118,male,46-60,central,books,online,amazon,2,good product,positive,33,yes,yes
+25119,female,26-35,north,travel,online,amazon,3,fan speed is slow and making lot of noise,positive,61,no,no
+25120,other,36-45,west,books,online,amazon,2,nice cooler perfect for hall,positive,27,yes,no
+25121,male,46-60,east,beauty,online,amazon,1,very good cooling,positive,12,yes,no
+25122,other,46-60,central,home & kitchen,online,amazon,3,average production,neutral,1,yes,no
+25123,male,18-25,south,books,online,amazon,5,awesome,positive,63,no,yes
+25124,male,46-60,south,electronics,online,amazon,2,awesome,positive,47,yes,yes
+25125,other,60+,north,groceries,online,amazon,5,nice product,positive,5,yes,no
+25126,male,46-60,central,electronics,online,amazon,2,good aircoolr,positive,42,yes,yes
+25127,male,60+,east,electronics,online,amazon,1,nice,positive,41,yes,yes
+25128,other,26-35,north,electronics,online,amazon,4,good condition best cooling,positive,60,no,no
+25129,female,46-60,north,automobile,online,amazon,3,good product,positive,52,no,no
+25130,male,46-60,west,automobile,online,amazon,4,good,positive,62,no,yes
+25131,male,46-60,west,travel,online,amazon,1,superb nice coolingsimply awesome unbeatable at this price range,positive,24,yes,no
+25132,other,36-45,north,travel,online,amazon,2,build quality is better than symphony jumbo 70however cooling is a bit lesser and noise a bit more than symphony jumbo 70a larger tank capacity of 90100 ltr with aspen pads is desirable,positive,54,no,no
+25133,female,46-60,west,automobile,online,amazon,4,product quality is very bad and fan blade broken air flow average,negative,37,yes,no
+25134,other,18-25,south,travel,online,amazon,1,good product,positive,24,yes,yes
+25135,female,46-60,south,travel,online,amazon,3,nice product,positive,1,yes,yes
+25136,male,46-60,east,beauty,online,amazon,1,amazing,positive,57,no,no
+25137,female,60+,south,electronics,online,amazon,4,this cooler is not not cooling the room,negative,17,yes,no
+25138,male,36-45,north,beauty,online,amazon,2,excellent,positive,34,yes,no
+25139,other,46-60,south,fashion,online,amazon,2,cooling system is good,positive,17,yes,yes
+25140,other,46-60,west,electronics,online,amazon,1,speed of cooler is slower than fan after one week of use,positive,61,no,yes
+25141,other,46-60,east,sports,online,amazon,3,awesome for big rooms,positive,18,yes,no
+25142,male,18-25,west,fashion,online,amazon,1,cooler is good but sige is big colling good prise 6500the cooler is good but its airing speed is lowmakes very little noise and is good to watch,positive,29,yes,no
+25143,other,60+,south,electronics,online,amazon,3,good product,positive,5,yes,no
+25144,other,36-45,east,electronics,online,amazon,2,speed is very slow,neutral,12,yes,no
+25145,male,26-35,south,books,online,amazon,3,very good product in all respect it is one of the best desert cooler in the market and finally thanks to flipkart product designer manufacturersit looks simple but cooling effect is amaging,positive,3,yes,yes
+25146,other,18-25,central,sports,online,amazon,5,very good,positive,17,yes,yes
+25147,female,26-35,west,sports,online,amazon,2,awesome,positive,24,yes,yes
+25148,male,36-45,south,sports,online,amazon,2,not satisfied with the cooling very bad cooling,negative,34,yes,no
+25149,male,36-45,north,fashion,online,amazon,2,i think that it is small but it is big and colling is excellent,positive,50,no,no
+25150,female,26-35,north,electronics,online,amazon,2,very nice product i am happy,positive,2,yes,no
+25151,male,60+,central,automobile,online,amazon,4,i like it it is good,positive,60,no,yes
+25152,male,60+,east,automobile,online,amazon,1,good,positive,60,no,no
+25153,other,26-35,south,beauty,online,amazon,4,the product is very good and the product was delivered on time,positive,53,no,yes
+25154,female,60+,east,automobile,online,amazon,1,very nice,positive,68,no,no
+25155,female,46-60,north,books,online,amazon,2,as expected its fit to 150sqft room cool air,positive,20,yes,no
+25156,female,46-60,south,fashion,online,amazon,2,fan speed low and do not proper cooling,positive,66,no,no
+25157,other,36-45,central,home & kitchen,online,amazon,2,excellent,positive,2,yes,no
+25158,other,36-45,north,automobile,online,amazon,5,good but its too big,positive,56,no,yes
+25159,other,18-25,south,books,online,amazon,1,superb cooler it cools room within 5 minute amazing cooler amazing price,positive,43,yes,yes
+25160,female,60+,east,groceries,online,amazon,5,good quality product drain system needs improvement,positive,38,yes,no
+25161,female,36-45,east,fashion,online,amazon,2,best cooler in market,positive,48,no,no
+25162,other,46-60,south,home & kitchen,online,amazon,3,smart cooling we are using the cooler in fan speed of one feeling like winter thanks maharaja,positive,47,yes,yes
+25163,other,18-25,north,beauty,online,amazon,4,thanks,positive,15,yes,yes
+25164,female,36-45,south,sports,online,amazon,4,fantastic product thanks maharaja filpcart,positive,63,no,yes
+25165,female,26-35,west,groceries,online,amazon,4,awesome,positive,41,yes,no
+25166,female,18-25,south,travel,online,amazon,2,very useless service,negative,45,yes,no
+25167,female,60+,east,fashion,online,amazon,5,good,positive,34,yes,yes
+25168,female,60+,central,sports,online,amazon,3,occupies space but is worth it,positive,1,yes,no
+25169,female,60+,south,groceries,online,amazon,5,nice cooler with strong and quality built using it from last 2 months,positive,18,yes,yes
+25170,male,36-45,east,beauty,online,amazon,5,if ur staying in hot city this is waste dont buy,negative,4,yes,no
+25171,female,26-35,south,fashion,online,amazon,4,excellent,positive,39,yes,yes
+25172,male,60+,west,home & kitchen,online,amazon,2,cooler is good but very dirty smell,negative,7,yes,yes
+25173,female,36-45,north,books,online,amazon,3,not effective cooling fan area of effect is also very narrow not ideal returned it,negative,18,yes,yes
+25174,female,60+,west,groceries,online,amazon,1,built quality is not up to the mark overall avearge,neutral,41,yes,no
+25175,male,18-25,east,groceries,online,amazon,4,awesome,positive,55,no,yes
+25176,male,26-35,central,automobile,online,amazon,5,very bad product its water tank is not sufficient for a day tank empty in 4 hours and not open easily for cleaning,negative,27,yes,no
+25177,other,46-60,west,beauty,online,amazon,4,wrost cooler ever purchased not even 10 feet throw build quality is not upto mark purchase another good brand cooler instead of this,positive,35,yes,yes
+25178,female,36-45,north,sports,online,amazon,3,good working in maharaja,positive,70,no,no
+25179,male,46-60,east,books,online,amazon,4,nice cooler you can go for it,positive,8,yes,no
+25180,male,26-35,east,books,online,amazon,2,fabulous,positive,13,yes,yes
+25181,other,60+,central,groceries,online,amazon,5,value for money,positive,29,yes,no
+25182,female,18-25,north,automobile,online,amazon,3,cooling very late n water will come slowly,neutral,62,no,yes
+25183,other,36-45,north,travel,online,amazon,3,good but how to wash the cooler its tension,positive,59,no,yes
+25184,male,26-35,central,electronics,online,amazon,4,nice products,positive,16,yes,no
+25185,female,18-25,central,sports,online,amazon,1,fan speed is low but great cooling,positive,11,yes,no
+25186,female,36-45,west,home & kitchen,online,amazon,3,good cooler for big rooms water lasts full night works best with cross ventilation highly recommended,positive,37,yes,no
+25187,male,26-35,central,travel,online,amazon,4,very good and smooth working all functions are very good but wood grass all side bad improve side honeycomb cooling pad,positive,60,no,no
+25188,female,36-45,central,beauty,online,amazon,5,waste of money,negative,34,yes,no
+25189,male,60+,south,fashion,online,amazon,4,not god air thorw not god quality not accepted,negative,20,yes,no
+25190,female,18-25,central,beauty,online,amazon,5,cheap and best cooler even good for extreme summer,positive,7,yes,no
+25191,other,18-25,east,books,online,amazon,3,nice product,positive,68,no,yes
+25192,male,26-35,east,beauty,online,amazon,4,i am very happy,positive,41,yes,no
+25193,female,26-35,east,electronics,online,amazon,3,nice,positive,52,no,no
+25194,other,18-25,south,books,online,amazon,5,air throw weak,negative,54,no,no
+25195,male,46-60,south,books,online,amazon,1,super,positive,19,yes,no
+25196,male,36-45,west,automobile,online,amazon,3,too much big size,neutral,2,yes,yes
+25197,other,26-35,central,home & kitchen,online,amazon,4,best,positive,32,yes,yes
+25198,female,60+,south,beauty,online,amazon,1,just awsm its cooling beats many expensive branded cooler price is also very decent comparing other coolers,positive,44,yes,no
+25199,male,36-45,west,automobile,online,amazon,1,good,positive,27,yes,yes
+25200,female,18-25,east,automobile,online,amazon,5,its a big coolerair throw is good cooling is also good build material is sturdy water inlet shuld be little bit big overall i am satisfied with the product,positive,66,no,no
+25201,female,18-25,east,automobile,online,amazon,3,good cooling low noise better daily change the water to avoid smell separate water hose required for water loading,positive,17,yes,yes
+25202,other,26-35,central,books,online,amazon,1,good quality,positive,37,yes,no
+25203,female,26-35,north,automobile,online,amazon,3,very good in time delivery beautiful organization from flipcortthank you,positive,26,yes,yes
+25204,female,36-45,east,travel,online,amazon,5,very bad product bad quality low air flow not useful product waist money before 100 time think purchasing this product this product r not refundable all flipkart assistant was misguid,negative,62,no,no
+25205,other,60+,north,fashion,online,amazon,1,delivery of the product is amazing as usual and delivery person is also very helpful,positive,56,no,yes
+25206,female,18-25,south,books,online,amazon,1,i am writing a review after using it for 4 days this cooler is very nice size is jumbo cooling starts in the room after a while at night,positive,65,no,no
+25207,male,60+,west,beauty,online,amazon,4,i am giving 4 star but its deserv 10 out 9 i m cutting 1 star due to stand and water indicator once stand n water indicator will include this will be become the best nice air cooling super design power air throught range no sound overall worth to buy,positive,9,yes,no
+25208,other,60+,east,travel,online,amazon,1,nice product,positive,60,no,no
+25209,male,36-45,north,sports,online,amazon,5,yes its quite goodyou can go for it nicely deliveredthank you flipkart,positive,19,yes,no
+25210,male,46-60,central,electronics,online,amazon,2,value for money,positive,63,no,no
+25211,female,18-25,north,sports,online,amazon,4,very good,positive,16,yes,no
+25212,male,60+,central,groceries,online,amazon,5,very poor product and heavy smell through out the room received damaged,negative,9,yes,yes
+25213,other,46-60,south,groceries,online,amazon,5,ok,neutral,33,yes,no
+25214,other,60+,central,books,online,amazon,3,this is aws product at healthy price its worth to buy,positive,41,yes,no
+25215,male,36-45,central,fashion,online,amazon,2,very nice,positive,32,yes,no
+25216,other,60+,west,sports,online,amazon,4,i was vary of buying coole online as i cannot check the airflow or faults before purchasing but this cooler really changed my mind i did extensive research watched reviews and at the end selected this this is a beast of a cooler the airflow is absolutely amazing for this sizzling weather this cooler really throws cool air one advice always keep your coolers in a fully ventilated area like outside a window then you will see how great it works this was a great purchase and if you a,positive,51,no,yes
+25217,other,46-60,south,beauty,online,amazon,3,nice,positive,11,yes,yes
+25218,other,36-45,north,travel,online,amazon,2,very good product very nice cooling,positive,23,yes,no
+25219,other,60+,central,sports,online,amazon,5,good one very less noise,positive,65,no,no
+25220,male,60+,central,automobile,online,amazon,3,good,positive,3,yes,no
+25221,female,26-35,west,beauty,online,amazon,1,its greatworks like an ac,positive,2,yes,no
+25222,female,36-45,south,beauty,online,amazon,5,best coolerlow noise and better cooling,positive,15,yes,no
+25223,female,18-25,south,beauty,online,amazon,2,super,positive,8,yes,no
+25224,other,46-60,west,electronics,online,amazon,1,delivered the product on time but the demo was not done even after two weeks for which the amount is already deducted complaint was raised but they are dragging that will be done in 24 hours but many 24 48 hours have gone,negative,19,yes,yes
+25225,other,26-35,central,beauty,online,amazon,1,awaesome cooler it is better than symphony,positive,4,yes,yes
+25226,male,18-25,north,travel,online,amazon,5,flipkart delivery very nice and product in this time good,positive,30,yes,yes
+25227,male,46-60,central,groceries,online,amazon,1,cooler is so good and cooling bestthank you flipkart,positive,34,yes,yes
+25228,female,18-25,north,home & kitchen,online,amazon,3,good one,positive,21,yes,no
+25229,other,60+,west,groceries,online,amazon,2,nice product cooling air,positive,21,yes,yes
+25230,other,18-25,central,travel,online,amazon,2,best air cooler,positive,27,yes,no
+25231,male,18-25,central,automobile,online,amazon,1,after use of one week in extreme conditions i feel this cooler works very fine strongly recommend to buy this product,positive,66,no,yes
+25232,female,36-45,north,home & kitchen,online,amazon,5,looks good purchase and economical tge power cord should have been 5 meters or 6 meters length instead of existing 2 meters given the huge size if this desert cooler,positive,20,yes,no
+25233,male,26-35,west,sports,online,amazon,3,its best small family,positive,29,yes,yes
+25234,female,60+,west,sports,online,amazon,4,extremely horrible servicedo not order,negative,44,yes,no
+25235,male,36-45,north,groceries,online,amazon,3,extremely good productgood product for lower floor and not good for the top floor,positive,7,yes,no
+25236,male,18-25,west,automobile,online,amazon,1,verry good indian fast desert coolar verey verry nise product,positive,36,yes,no
+25237,male,26-35,north,automobile,online,amazon,4,air cooler is better im happy recived your product,positive,44,yes,no
+25238,female,18-25,west,electronics,online,amazon,5,good product,positive,52,no,no
+25239,female,36-45,north,electronics,online,amazon,1,we found inside fan bed will not fixed properly and also bolt nuts fall inside further remaing all ok,positive,2,yes,yes
+25240,female,60+,south,beauty,online,amazon,1,nice product,positive,37,yes,yes
+25241,male,60+,south,books,online,amazon,3,awesome product,positive,27,yes,yes
+25242,female,60+,south,books,online,amazon,4,good cooler,positive,7,yes,yes
+25243,female,60+,east,sports,online,amazon,1,very good product on very first day it fell on the floor from table with full water but quality of product is too good still working thankyou flipkart,positive,51,no,yes
+25244,male,26-35,south,groceries,online,amazon,5,fantastic cooling,positive,6,yes,no
+25245,other,46-60,north,fashion,online,amazon,3,nice cooling,positive,15,yes,yes
+25246,other,36-45,central,books,online,amazon,4,please share a good operating manual how are we supposed to flush out water nothing like mentioned also dismantling back needs a specialist please design in such way where even elders can operate,positive,23,yes,no
+25247,female,36-45,south,beauty,online,amazon,2,worst product dont waste your money,negative,36,yes,no
+25248,other,46-60,central,groceries,online,amazon,5,excellent product,positive,3,yes,no
+25249,other,60+,central,home & kitchen,online,amazon,4,nice cooler awesome product,positive,41,yes,yes
+25250,other,60+,north,groceries,online,amazon,1,blade of cooler fan is broken,negative,62,no,no
+25251,male,60+,east,travel,online,amazon,1,air delivery is very bad not even cooling 10x13 room,negative,46,yes,yes
+25252,male,36-45,central,sports,online,amazon,1,very nice,positive,6,yes,yes
+25253,male,36-45,north,automobile,online,amazon,4,performance reduced after 2 months,neutral,26,yes,no
+25254,male,60+,south,books,online,amazon,2,its more than my expectations iam so happy and as usual excellent flipkart service,positive,70,no,yes
+25255,other,60+,west,automobile,online,amazon,5,worst model all user please dont buy,negative,21,yes,no
+25256,other,46-60,north,electronics,online,amazon,2,not good,negative,31,yes,no
+25257,other,26-35,east,beauty,online,amazon,4,super,positive,57,no,yes
+25258,female,60+,central,sports,online,amazon,1,nice product,positive,51,no,no
+25259,male,46-60,south,electronics,online,amazon,3,overall good product cons come without stand,positive,2,yes,no
+25260,female,18-25,west,beauty,online,amazon,5,good product nd fast delivery,positive,38,yes,yes
+25261,male,46-60,south,sports,online,amazon,3,good bt without wheel or stand very difficult to move,negative,42,yes,yes
+25262,other,36-45,east,sports,online,amazon,2,best product with resionable price,positive,46,yes,yes
+25263,female,60+,south,travel,online,amazon,1,it is ok,neutral,29,yes,no
+25264,male,18-25,south,automobile,online,amazon,2,good,positive,19,yes,yes
+25265,other,36-45,east,groceries,online,amazon,1,nice product,positive,64,no,no
+25266,female,36-45,east,electronics,online,amazon,5,coling is best another cooler,positive,11,yes,no
+25267,female,46-60,central,travel,online,amazon,3,coolar is good but suggest that i thinks wheel also provide in coolar for easy movement,positive,69,no,no
+25268,female,60+,central,automobile,online,amazon,2,good to go,positive,23,yes,no
+25269,male,60+,north,automobile,online,amazon,4,very huge in size cooling no good feels air just like normal fan,positive,69,no,no
+25270,female,36-45,east,books,online,amazon,5,awesome,positive,1,yes,no
+25271,other,60+,central,sports,online,amazon,3,worst,negative,66,no,no
+25272,female,18-25,north,fashion,online,amazon,3,cooler chilled the room very fast,positive,6,yes,no
+25273,other,26-35,east,travel,online,amazon,2,its good but size is too big,positive,17,yes,no
+25274,female,26-35,south,fashion,online,amazon,2,its huge and secondly its as good as ac but the problem is you cannot control the cooling its good if you have a 1500 sqft house,positive,22,yes,no
+25275,female,18-25,south,fashion,online,amazon,2,it is perfect for your daughter marriage items no doubt it is big and it is room cooler,positive,9,yes,no
+25276,female,26-35,south,sports,online,amazon,3,amazing product it works wonders in 45c and always go for wood woolen pads as theyre better than honeycomb,positive,14,yes,yes
+25277,other,60+,central,electronics,online,amazon,3,very good product dont think much more go for it absolutely value of money,positive,48,no,no
+25278,other,26-35,west,books,online,amazon,4,it is big moving it is problematic it would have been easier to clean if the side panels were easily removable does a decent job of cooling the room,positive,44,yes,no
+25279,female,60+,south,sports,online,amazon,3,good product,positive,67,no,no
+25280,male,46-60,south,home & kitchen,online,amazon,3,its very good products in online its very well,positive,16,yes,yes
+25281,male,46-60,east,home & kitchen,online,amazon,2,good,positive,11,yes,no
+25282,male,46-60,central,groceries,online,amazon,3,its a very poor quality product dont buy its,negative,28,yes,no
+25283,male,36-45,south,electronics,online,amazon,1,good with price,positive,35,yes,no
+25284,male,36-45,east,books,online,amazon,4,too good product,positive,46,yes,no
+25285,other,18-25,west,groceries,online,amazon,1,excellent cooler happy with it,positive,50,no,yes
+25286,male,36-45,east,sports,online,amazon,5,very good product in low price its our second plastic cooler and i am happy with its cooling and other features in future i definitely buy it again and recommend to others also thanks flipkart,positive,59,no,no
+25287,male,46-60,south,fashion,online,amazon,4,worst product,negative,68,no,yes
+25288,female,46-60,east,fashion,online,amazon,4,plastic quality is not that strong as of symphony coolers,negative,6,yes,no
+25289,other,26-35,central,automobile,online,amazon,5,very good product,positive,25,yes,no
+25290,female,36-45,east,beauty,online,amazon,4,not upto the reviews build up level too bulky quite noisy lack of wheel is biggest disadvantage buy at your own risk not happy overall,negative,3,yes,yes
+25291,female,26-35,north,travel,online,amazon,5,nonetheless i gives the feel of ac,negative,44,yes,no
