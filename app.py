@@ -158,6 +158,24 @@ else:
         sentiment_label, probabilities = sentiment.predict_sentiment_with_probabilities(review_text)
         sentiment_score = probabilities.get(sentiment_label, 0.5)
         
+        # --- HYBRID SAFETY NET ---
+        # Calculate rule-based score to validate ML prediction
+        rule_based_score = st.session_state.aspect_analyzer.analyze_overall_sentiment(review_text)
+        
+        # Override if ML is Positive but Rules say Negative (Safety Net)
+        if rule_based_score < 0.4 and sentiment_label == 'positive':
+            sentiment_label = 'negative'
+            sentiment_score = rule_based_score # Use the low score
+            # Adjust probabilities for display
+            probabilities = {'positive': 0.1, 'neutral': 0.1, 'negative': 0.8}
+            
+        # Override if ML is Negative but Rules say Strong Positive (Rare case)
+        elif rule_based_score > 0.8 and sentiment_label == 'negative':
+            sentiment_label = 'positive'
+            sentiment_score = rule_based_score
+            probabilities = {'positive': 0.9, 'neutral': 0.05, 'negative': 0.05}
+        # -------------------------
+        
         # Analyze aspects
         aspect_analyzer = st.session_state.aspect_analyzer
         aspects_data = aspect_analyzer.analyze_aspects(review_text)
@@ -240,8 +258,8 @@ else:
         strength_col, weakness_col = st.columns(2)
         
         # Identify strengths (aspects with high scores)
-        strengths = {aspect: score for aspect, score in aspects_data.items() if score > 0.6}
-        weaknesses = {aspect: score for aspect, score in aspects_data.items() if score < 0.4}
+        strengths = {aspect: score for aspect, score in aspects_data.items() if score > 0.65}
+        weaknesses = {aspect: score for aspect, score in aspects_data.items() if score < 0.45}
         
         with strength_col:
             st.markdown(f'<h3 style="color: {COLORS["positive"]};">✅ Product Strengths</h3>', unsafe_allow_html=True)

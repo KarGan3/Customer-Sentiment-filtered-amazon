@@ -18,28 +18,26 @@ class AspectAnalyzer:
         }
         
         # Sentiment words with intensity levels
-        self.strong_positive = ['excellent', 'amazing', 'incredible', 'perfect', 'outstanding', 
-                                'love', 'exceeded', 'fantastic', 'brilliant', 'phenomenal', 'superb']
+        self.strong_positive = ['great', 'excellent', 'amazing', 'incredible', 'fantastic', 
+                                'love', 'perfect', 'outstanding', 'best', 'superb']
         
-        self.positive = ['good', 'nice', 'solid', 'reliable', 'helpful', 'pleased', 
+        self.positive = ['good', 'nice', 'solid', 'reliable', 'pleased', 
                         'satisfied', 'works', 'clear', 'bright', 'recommend']
         
-        self.neutral = ['okay', 'fine', 'decent', 'average', 'acceptable', 'standard', 
-                       'adequate', 'fair', 'alright']
+        self.neutral = ['okay', 'fine', 'decent', 'average', 'acceptable', 'standard']
         
-        self.negative = ['weak', 'poor', 'mediocre', 'subpar', 'struggled', 'issues', 
-                        'problems', 'unhelpful', 'cheap', 'flimsy', 'disappointing']
+        self.critical = ['unhelpful', 'questionable', 'mediocre', 'subpar', 'struggles', 
+                        'issues', 'weak', 'below average', 'poor']
         
-        self.strong_negative = ['terrible', 'horrible', 'awful', 'nightmare', 'useless', 
-                               'broken', 'failed', 'worst', 'hate', 'pathetic', 'garbage',
-                               'completely', 'totally', 'barely', 'hardly', 'scarcely']
+        self.negative = ['terrible', 'awful', 'horrible', 'worst', 'pathetic', 'useless', 
+                        'nightmare', 'garbage', 'disappointed', 'broken', 'failed', 'cheap', 'junk',
+                        'disaster', 'joke', 'zero']
         
         # Negation words (TRUE negations only - words that flip meaning)
         self.negation_words = ['not', 'no', 'never', 'neither', 'nor', 'none', "n't"]
         
         # Qualifying/contrasting words
-        self.qualifiers = ['but', 'though', 'however', 'although', 'yet', 'still', 
-                          'questionable', 'just']
+        self.qualifiers = ['but', 'though', 'however', 'although', 'yet', 'still', 'just']
     
     def analyze_aspects(self, review_text):
         """
@@ -85,25 +83,25 @@ class AspectAnalyzer:
             sentence_score = 0.5  # Start neutral
             sentiment_found = False
             
-            # Check for strong negative words
-            if any(word in sentence for word in self.strong_negative):
+            # Check for negative words (Strongest signal first)
+            if any(word in sentence for word in self.negative):
                 sentence_score = 0.1
                 sentiment_found = True
-            # Check for negative words
-            elif any(word in sentence for word in self.negative):
-                sentence_score = 0.35
+            # Check for critical/qualifying words
+            elif any(word in sentence for word in self.critical):
+                sentence_score = 0.2  # Mid-low score
                 sentiment_found = True
             # Check for neutral words
             elif any(word in sentence for word in self.neutral):
-                sentence_score = 0.5
-                sentiment_found = True
-            # Check for positive words
-            elif any(word in sentence for word in self.positive):
-                sentence_score = 0.7
+                sentence_score = 0.55
                 sentiment_found = True
             # Check for strong positive words
             elif any(word in sentence for word in self.strong_positive):
-                sentence_score = 0.95
+                sentence_score = 0.9
+                sentiment_found = True
+            # Check for positive words
+            elif any(word in sentence for word in self.positive):
+                sentence_score = 0.75
                 sentiment_found = True
             
             # Handle negation - flip the score
@@ -145,3 +143,72 @@ class AspectAnalyzer:
         ]
         
         return relevant_phrases[:3]  # Return top 3 relevant phrases
+
+    def analyze_overall_sentiment(self, review_text):
+        """
+        Calculate overall sentiment score based on rules (0.0 = negative, 1.0 = positive).
+        Useful for validating/overriding ML model predictions.
+        """
+        # Treat the whole text as one "aspect" context
+        # We pass a dummy keyword list that matches everything to reuse the logic, 
+        # or better, just reuse the internal logic.
+        
+        # Let's reuse _calculate_aspect_sentiment but pass the whole text and a dummy keyword that is guaranteed to be found if we want to use that method,
+        # BUT _calculate_aspect_sentiment filters sentences based on keywords.
+        # So we should duplicate the core logic or refactor. 
+        # For safety and minimal refactoring risk, I'll adapt the core logic here for the whole text.
+        
+        sentences = re.split(r'[.!?]+', review_text)
+        # Filter empty
+        relevant_sentences = [s.strip() for s in sentences if s.strip()]
+        
+        if not relevant_sentences:
+            return 0.5
+            
+        total_score = 0.0
+        sentence_count = 0
+        
+        for sentence in relevant_sentences:
+            sentence = sentence.lower()
+            words = sentence.split()
+            sentence_score = 0.55  # Start neutral (updated baseline)
+            sentiment_found = False
+            
+            # Check for negative words (Strongest signal first)
+            if any(word in sentence for word in self.negative):
+                sentence_score = 0.1
+                sentiment_found = True
+            # Check for critical/qualifying words
+            elif any(word in sentence for word in self.critical):
+                sentence_score = 0.2
+                sentiment_found = True
+            # Check for neutral words
+            elif any(word in sentence for word in self.neutral):
+                sentence_score = 0.55
+                sentiment_found = True
+            # Check for strong positive words
+            elif any(word in sentence for word in self.strong_positive):
+                sentence_score = 0.9
+                sentiment_found = True
+            # Check for positive words
+            elif any(word in sentence for word in self.positive):
+                sentence_score = 0.75
+                sentiment_found = True
+            
+            # Handle negation
+            has_negation = any(neg in sentence for neg in self.negation_words)
+            if has_negation and sentiment_found:
+                sentence_score = 1.0 - sentence_score
+            
+            # Handle qualifiers
+            has_qualifier = any(qual in sentence for qual in self.qualifiers)
+            if has_qualifier and sentence_score > 0.5:
+                sentence_score -= 0.15
+            elif has_qualifier and sentence_score < 0.5:
+                sentence_score += 0.05
+            
+            total_score += sentence_score
+            sentence_count += 1
+            
+        final_score = total_score / sentence_count if sentence_count > 0 else 0.5
+        return max(0.0, min(1.0, final_score))
